@@ -1,8 +1,8 @@
-This is XeTeX, Version 3.141592653-2.6-0.999995 (TeX Live 2023/Debian) (preloaded format=xelatex 2025.4.5)  5 APR 2025 18:48
+This is XeTeX, Version 3.141592653-2.6-0.999995 (TeX Live 2023/Debian) (preloaded format=xelatex 2025.4.5)  6 APR 2025 02:26
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
-**music-sheet.tex
+**./music-sheet.tex
 (./music-sheet.tex
 LaTeX2e <2023-11-01> patch level 1
 L3 programming layer <2024-01-22>
@@ -430,25 +430,25 @@ Package polyglossia Warning: Unknown Arabic numerals option `arabic' on input l
 ine 14.
 
 
-Package fontspec Info: Could not resolve font "Jameel Noori Nastaleeq/BI" (it
+Package fontspec Info: Could not resolve font "Gulmarg Nastaleeq/BI" (it
 (fontspec)             probably doesn't exist).
 
 
-Package fontspec Info: Could not resolve font "Jameel Noori Nastaleeq/B" (it
+Package fontspec Info: Could not resolve font "Gulmarg Nastaleeq/B" (it
 (fontspec)             probably doesn't exist).
 
 
-Package fontspec Info: Could not resolve font "Jameel Noori Nastaleeq/I" (it
+Package fontspec Info: Could not resolve font "Gulmarg Nastaleeq/I" (it
 (fontspec)             probably doesn't exist).
 
 
-Package fontspec Info: Font family 'JameelNooriNastaleeq(0)' created for font
-(fontspec)             'Jameel Noori Nastaleeq' with options [Script=Arabic].
+Package fontspec Info: Font family 'GulmargNastaleeq(0)' created for font
+(fontspec)             'Gulmarg Nastaleeq' with options [Script=Arabic].
 (fontspec)              
 (fontspec)              This font family consists of the following NFSS
 (fontspec)             series/shapes:
 (fontspec)              
-(fontspec)             - 'normal' (m/n) with NFSS spec.: <->"Jameel Noori
+(fontspec)             - 'normal' (m/n) with NFSS spec.: <->"Gulmarg
 (fontspec)             Nastaleeq/OT:script=arab;language=dflt;"
 (fontspec)             - 'small caps'  (m/sc) with NFSS spec.: 
 
@@ -610,8 +610,6 @@ LaTeX Info: Redefining \ttfamily on input line 82.
 LaTeX Info: Redefining \rmfamily on input line 83.
 LaTeX Info: Redefining \sffamily on input line 83.
 LaTeX Info: Redefining \ttfamily on input line 83.
-Missing character: There is no ۓ (U+06D3) in font Jameel Noori Nastaleeq/OT:scr
-ipt=arab;language=dflt;!
 LaTeX Info: Redefining \rmfamily on input line 84.
 LaTeX Info: Redefining \sffamily on input line 84.
 LaTeX Info: Redefining \ttfamily on input line 84.
@@ -782,10 +780,10 @@ LaTeX Info: Redefining \ttfamily on input line 234.
 LaTeX Info: Redefining \rmfamily on input line 235.
 LaTeX Info: Redefining \sffamily on input line 235.
 LaTeX Info: Redefining \ttfamily on input line 235.
+ [4]
 LaTeX Info: Redefining \rmfamily on input line 273.
 LaTeX Info: Redefining \sffamily on input line 273.
 LaTeX Info: Redefining \ttfamily on input line 273.
- [4]
 LaTeX Info: Redefining \rmfamily on input line 274.
 LaTeX Info: Redefining \sffamily on input line 274.
 LaTeX Info: Redefining \ttfamily on input line 274.
@@ -805,18 +803,18 @@ LaTeX Info: Redefining \rmfamily on input line 279.
 LaTeX Info: Redefining \sffamily on input line 279.
 LaTeX Info: Redefining \ttfamily on input line 279.
 
-Underfull \hbox (badness 10000) in paragraph at lines 279--280
-[][][]\TU/JameelNooriNastaleeq(0)/m/n/16 لوَلے چَنی لَلوان پُوافے تائی مَاسے وَ
-نوان ڈرائی مَوی[][]
+Underfull \hbox (badness 6125) in paragraph at lines 279--280
+[][][]\TU/GulmargNastaleeq(0)/m/n/16 لوَلے چَنی لَلوان پُوافے تائی مَاسے وَنوان
+[][]
  []
 
 LaTeX Info: Redefining \rmfamily on input line 280.
 LaTeX Info: Redefining \sffamily on input line 280.
 LaTeX Info: Redefining \ttfamily on input line 280.
 
-Underfull \hbox (badness 10000) in paragraph at lines 280--281
-[][][]\TU/JameelNooriNastaleeq(0)/m/n/16 لوَلے چَنی لَلوان پُوافے تائی مَاسے وَ
-نوان ڈرائی مَوی[][]
+Underfull \hbox (badness 6125) in paragraph at lines 280--281
+[][][]\TU/GulmargNastaleeq(0)/m/n/16 لوَلے چَنی لَلوان پُوافے تائی مَاسے وَنوان
+[][]
  []
 
 LaTeX Info: Redefining \rmfamily on input line 281.
@@ -858,7 +856,11 @@ LaTeX Info: Redefining \ttfamily on input line 292.
 LaTeX Info: Redefining \rmfamily on input line 293.
 LaTeX Info: Redefining \sffamily on input line 293.
 LaTeX Info: Redefining \ttfamily on input line 293.
-[5]
+
+Overfull \vbox (5.0081pt too high) has occurred while \output is active []
+
+
+[5] [6]
 LaTeX Info: Redefining \rmfamily on input line 370.
 LaTeX Info: Redefining \sffamily on input line 370.
 LaTeX Info: Redefining \ttfamily on input line 370.
@@ -889,7 +891,6 @@ LaTeX Info: Redefining \ttfamily on input line 378.
 LaTeX Info: Redefining \rmfamily on input line 379.
 LaTeX Info: Redefining \sffamily on input line 379.
 LaTeX Info: Redefining \ttfamily on input line 379.
- [6]
 LaTeX Info: Redefining \rmfamily on input line 380.
 LaTeX Info: Redefining \sffamily on input line 380.
 LaTeX Info: Redefining \ttfamily on input line 380.
@@ -1004,6 +1005,7 @@ LaTeX Info: Redefining \ttfamily on input line 416.
 LaTeX Info: Redefining \rmfamily on input line 417.
 LaTeX Info: Redefining \sffamily on input line 417.
 LaTeX Info: Redefining \ttfamily on input line 417.
+ [7]
 LaTeX Info: Redefining \rmfamily on input line 418.
 LaTeX Info: Redefining \sffamily on input line 418.
 LaTeX Info: Redefining \ttfamily on input line 418.
@@ -1037,7 +1039,6 @@ LaTeX Info: Redefining \ttfamily on input line 427.
 LaTeX Info: Redefining \rmfamily on input line 428.
 LaTeX Info: Redefining \sffamily on input line 428.
 LaTeX Info: Redefining \ttfamily on input line 428.
- [7]
 LaTeX Info: Redefining \rmfamily on input line 453.
 LaTeX Info: Redefining \sffamily on input line 453.
 LaTeX Info: Redefining \ttfamily on input line 453.
@@ -1062,6 +1063,7 @@ LaTeX Info: Redefining \ttfamily on input line 459.
 LaTeX Info: Redefining \rmfamily on input line 460.
 LaTeX Info: Redefining \sffamily on input line 460.
 LaTeX Info: Redefining \ttfamily on input line 460.
+ [8]
 LaTeX Info: Redefining \rmfamily on input line 500.
 LaTeX Info: Redefining \sffamily on input line 500.
 LaTeX Info: Redefining \ttfamily on input line 500.
@@ -1095,7 +1097,6 @@ LaTeX Info: Redefining \ttfamily on input line 509.
 LaTeX Info: Redefining \rmfamily on input line 510.
 LaTeX Info: Redefining \sffamily on input line 510.
 LaTeX Info: Redefining \ttfamily on input line 510.
- [8]
 LaTeX Info: Redefining \rmfamily on input line 511.
 LaTeX Info: Redefining \sffamily on input line 511.
 LaTeX Info: Redefining \ttfamily on input line 511.
@@ -1132,27 +1133,10 @@ LaTeX Info: Redefining \ttfamily on input line 521.
 LaTeX Info: Redefining \rmfamily on input line 522.
 LaTeX Info: Redefining \sffamily on input line 522.
 LaTeX Info: Redefining \ttfamily on input line 522.
+ [9]
 LaTeX Info: Redefining \rmfamily on input line 523.
 LaTeX Info: Redefining \sffamily on input line 523.
 LaTeX Info: Redefining \ttfamily on input line 523.
-LaTeX Info: Redefining \rmfamily on input line 552.
-LaTeX Info: Redefining \sffamily on input line 552.
-LaTeX Info: Redefining \ttfamily on input line 552.
-LaTeX Info: Redefining \rmfamily on input line 553.
-LaTeX Info: Redefining \sffamily on input line 553.
-LaTeX Info: Redefining \ttfamily on input line 553.
-LaTeX Info: Redefining \rmfamily on input line 554.
-LaTeX Info: Redefining \sffamily on input line 554.
-LaTeX Info: Redefining \ttfamily on input line 554.
-LaTeX Info: Redefining \rmfamily on input line 555.
-LaTeX Info: Redefining \sffamily on input line 555.
-LaTeX Info: Redefining \ttfamily on input line 555.
-LaTeX Info: Redefining \rmfamily on input line 556.
-LaTeX Info: Redefining \sffamily on input line 556.
-LaTeX Info: Redefining \ttfamily on input line 556.
-LaTeX Info: Redefining \rmfamily on input line 557.
-LaTeX Info: Redefining \sffamily on input line 557.
-LaTeX Info: Redefining \ttfamily on input line 557.
 LaTeX Info: Redefining \rmfamily on input line 558.
 LaTeX Info: Redefining \sffamily on input line 558.
 LaTeX Info: Redefining \ttfamily on input line 558.
@@ -1162,16 +1146,63 @@ LaTeX Info: Redefining \ttfamily on input line 559.
 LaTeX Info: Redefining \rmfamily on input line 560.
 LaTeX Info: Redefining \sffamily on input line 560.
 LaTeX Info: Redefining \ttfamily on input line 560.
+
+Missing character: There is no ې (U+06D0) in font Nafees Nastaleeq/OT:script=ar
+ab;language=dflt;!
 LaTeX Info: Redefining \rmfamily on input line 561.
 LaTeX Info: Redefining \sffamily on input line 561.
 LaTeX Info: Redefining \ttfamily on input line 561.
 LaTeX Info: Redefining \rmfamily on input line 562.
 LaTeX Info: Redefining \sffamily on input line 562.
 LaTeX Info: Redefining \ttfamily on input line 562.
+Missing character: There is no ې (U+06D0) in font Nafees Nastaleeq/OT:script=ar
+ab;language=dflt;!
 LaTeX Info: Redefining \rmfamily on input line 563.
 LaTeX Info: Redefining \sffamily on input line 563.
 LaTeX Info: Redefining \ttfamily on input line 563.
- [9] [10] (./music-sheet.aux)
+Missing character: There is no ې (U+06D0) in font Nafees Nastaleeq/OT:script=ar
+ab;language=dflt;!
+LaTeX Info: Redefining \rmfamily on input line 564.
+LaTeX Info: Redefining \sffamily on input line 564.
+LaTeX Info: Redefining \ttfamily on input line 564.
+LaTeX Info: Redefining \rmfamily on input line 565.
+LaTeX Info: Redefining \sffamily on input line 565.
+LaTeX Info: Redefining \ttfamily on input line 565.
+LaTeX Info: Redefining \rmfamily on input line 566.
+LaTeX Info: Redefining \sffamily on input line 566.
+LaTeX Info: Redefining \ttfamily on input line 566.
+Missing character: There is no ې (U+06D0) in font Nafees Nastaleeq/OT:script=ar
+ab;language=dflt;!
+LaTeX Info: Redefining \rmfamily on input line 567.
+LaTeX Info: Redefining \sffamily on input line 567.
+LaTeX Info: Redefining \ttfamily on input line 567.
+Missing character: There is no ې (U+06D0) in font Nafees Nastaleeq/OT:script=ar
+ab;language=dflt;!
+LaTeX Info: Redefining \rmfamily on input line 568.
+LaTeX Info: Redefining \sffamily on input line 568.
+LaTeX Info: Redefining \ttfamily on input line 568.
+LaTeX Info: Redefining \rmfamily on input line 569.
+LaTeX Info: Redefining \sffamily on input line 569.
+LaTeX Info: Redefining \ttfamily on input line 569.
+LaTeX Info: Redefining \rmfamily on input line 570.
+LaTeX Info: Redefining \sffamily on input line 570.
+LaTeX Info: Redefining \ttfamily on input line 570.
+LaTeX Info: Redefining \rmfamily on input line 571.
+LaTeX Info: Redefining \sffamily on input line 571.
+LaTeX Info: Redefining \ttfamily on input line 571.
+LaTeX Info: Redefining \rmfamily on input line 572.
+LaTeX Info: Redefining \sffamily on input line 572.
+LaTeX Info: Redefining \ttfamily on input line 572.
+LaTeX Info: Redefining \rmfamily on input line 573.
+LaTeX Info: Redefining \sffamily on input line 573.
+LaTeX Info: Redefining \ttfamily on input line 573.
+LaTeX Info: Redefining \rmfamily on input line 574.
+LaTeX Info: Redefining \sffamily on input line 574.
+LaTeX Info: Redefining \ttfamily on input line 574.
+LaTeX Info: Redefining \rmfamily on input line 575.
+LaTeX Info: Redefining \sffamily on input line 575.
+LaTeX Info: Redefining \ttfamily on input line 575.
+[10] [11] (./music-sheet.aux)
  ***********
 LaTeX2e <2023-11-01> patch level 1
 L3 programming layer <2024-01-22>
@@ -1179,11 +1210,11 @@ L3 programming layer <2024-01-22>
  ) 
 Here is how much of TeX's memory you used:
  8244 strings out of 476869
- 200166 string characters out of 5804950
- 1947627 words of memory out of 5000000
+ 200093 string characters out of 5804950
+ 1941627 words of memory out of 5000000
  30052 multiletter control sequences out of 15000+600000
  558157 words of font info for 47 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
- 93i,11n,107p,2408b,741s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 93i,11n,107p,2410b,830s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
-Output written on music-sheet.pdf (10 pages).
+Output written on music-sheet.pdf (11 pages).
