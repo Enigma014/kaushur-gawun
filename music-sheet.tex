@@ -5,24 +5,20 @@
 \usepackage{polyglossia}
 \usepackage{fontspec}
 \usepackage{titlesec}
-\usepackage{lineno}
-\usepackage{setspace}
 \usepackage{enumitem}
 \usepackage{ragged2e}
-\usepackage{parskip} % for better spacing between lines
+\usepackage{parskip}
 
 % Languages
 \setmainlanguage{english}
-\setotherlanguage{arabic}
+\setotherlanguage[numerals=arabic]{arabic}
 
-% Arabic font (customize if needed)
+% Arabic font
 \newfontfamily\arabicfont[Script=Arabic]{Jameel Noori Nastaleeq}
 
-% Romanized font
+% Font commands
 \newcommand{\bigroman}[1]{\fontsize{16pt}{18pt}\selectfont\RaggedRight #1}
-
-% Arabic font large
-\newcommand{\bigarabic}[1]{\fontsize{16pt}{18pt}\selectfont\RaggedLeft \textarabic{#1}}
+\newcommand{\bigarabic}[1]{\fontsize{16pt}{18pt}\selectfont \textarabic{#1}}
 
 % Page numbers
 \pagestyle{fancy}
@@ -33,58 +29,540 @@
 \titleformat{\section}
   {\normalfont\fontsize{18pt}{20pt}\bfseries}{\thesection}{1em}{}
 
-% Line numbers only on text (not headers)
-\renewcommand\linenumberfont{\normalfont\bfseries\large}
-\modulolinenumbers[1]
+% List spacing
+\setlist{nosep}
 
 \begin{document}
-\setstretch{1.5}
-\linenumbers
+% \setstretch{1.5}
 
-\section*{Dholki Song 1}
+\section*{Kashmiri Wedding Songs Collection}
+
+\subsection*{Roz Roz Boz Mein Zaar Madno}
+\textbf{For:} Bride \quad \textbf{Type:} Emotional farewell\\
+\textbf{Description:} A melancholic song expressing the bride's sorrow at leaving her parental home.
 
 \begin{multicols}{2}
-
-\begin{enumerate}[left=0pt,label=\arabic*.]
-\item \bigroman{Aakho shehr sheerazo}
-\item \bigroman{Dil chu wathwan hazazo}
-\item \bigroman{Sheene baane rath chune}
-\item \bigroman{Che gulabi chonuzo}
+\begin{enumerate}[leftmargin=*, label=\arabic*., font=\fontsize{16pt}{18pt}\selectfont]
+  \item \bigroman{Roz roz boz mein zaar madno}
+  \item \bigroman{Katche zoon gaejthas, safraes laejthas}
+  \item \bigroman{Tchaurmakh gaame shahar madno}
+  \item \bigroman{Yaar daud krooth pyaum, shuir paan zaaiye gaum}
+  \item \bigroman{Tche patte rowum laukchaar madno}
+  \item \bigroman{Bagich yamberzal wan posh ti maswal}
+  \item \bigroman{Padan karhai nisar madno}
+  \item \bigroman{Ishaar hawaan, dil katraawaan}
+  \item \bigroman{Bhumbe chai tez talwaar madno}
+  \item \bigroman{Tche myon ghamkhaar, tche myon sitamgaar}
+  \item \bigroman{Tche chauk, tche haa bulgaar madno}
+  \item \bigroman{Khoon goum jari aoussh har hari}
+  \item \bigroman{Phali phali goum movkhath hari madano}
+  \item \bigroman{Nazre chaaniey seeith, beymaar balaiey keeith}
+  \item \bigroman{Myaane weeizi loguth be aar madno}
+  \item \bigroman{Chasme chani maskha deshith gaye vadiy}
+  \item \bigroman{Bengial judugar madno}
+  \item \bigroman{Wanihaa mahjoor daastaane dil zaroor}
+  \item \bigroman{Wanas ti chui naa tas waar madno}
 \end{enumerate}
 
 \columnbreak
 
-\begin{enumerate}[left=0pt,label=\arabic*.]
-\item \bigarabic{آکھو شہر شیرازو}
-\item \bigarabic{دل چھ وٿوَن حضازو}
-\item \bigarabic{شیٖنے بانے رتھ چنے}
-\item \bigarabic{چھ گلابی چونوژو}
+\begin{RTL}
+\begin{enumerate}[leftmargin=*, label=\arabic*., font=\fontsize{16pt}{18pt}\selectfont]
+  \item \bigarabic{روز روز بوز میٖنہ زار مادٕنو}
+  \item \bigarabic{کٹھے زون گیتھاس، صفرہ سلیٹھاس}
+  \item \bigarabic{چھورمکھ گامے شہر مادٕنو}
+  \item \bigarabic{یار دود کرٹھ پاؤں، شئیل پان زائے گاؤں}
+  \item \bigarabic{تھے پتہ روہم لوقچار مادٕنو}
+  \item \bigarabic{باغچ یمبیرزل وان پوش تی مسوال}
+  \item \bigarabic{پدان کرہ نصر مادٕنو}
+  \item \bigarabic{اشار ہواں، دل کتراؤں}
+  \item \bigarabic{بھمبے چائی تیز تلوار مادٕنو}
+  \item \bigarabic{تھے مئون غمخار، تھے مئون ستنگار}
+  \item \bigarabic{تھے چاک، تھے ہاء بلغار مادٕنو}
+  \item \bigarabic{خون گوم جاری آؤش ہر ہاری}
+  \item \bigarabic{پھلی پھلی گوم موکھت ہر مادانو}
+  \item \bigarabic{نظرے چانئے سیتھ، بیمار بالاۓ کیتھ}
+  \item \bigarabic{میاں وییزی لوگٹھ بے آر مادنو}
+  \item \bigarabic{چشم چانی مکھشا دیشتھ گے وادی}
+  \item \bigarabic{بینگیال جدوگار مادنو}
+  \item \bigarabic{وانہاں مہجور داستانے دل ضرور}
+  \item \bigarabic{وانس تی چھوی نہ تس وار مادنو}
 \end{enumerate}
-
+\end{RTL}
 \end{multicols}
 
-\vspace{1cm}
-
-\section*{Dholki Song 2}
+\subsection*{Mashooq Myane}
+\textbf{For:} Bride \quad \textbf{Type:} Romantic\\
+\textbf{Description:} A beloved classic expressing the bride's feelings for her beloved.
 
 \begin{multicols}{2}
-
-\begin{enumerate}[left=0pt,label=\arabic*.]
-\item \bigroman{Yaar myon wuchhun nindras}
-\item \bigroman{Hish hish karan cha wanus}
-\item \bigroman{Tsolh gov rang wathwan}
-\item \bigroman{Baapos chu rang raznus}
+\begin{enumerate}[leftmargin=*, label=\arabic*., font=\fontsize{16pt}{18pt}\selectfont]
+  \item \bigroman{Katyu chukh nundh bane walo mashook miyane}
+  \item \bigroman{Mei korui na chanai chanai walo mashook miyane}
+  \item \bigroman{Sharabik pyaleh bharyoo, Gulaban maale karyo}
+  \item \bigroman{Pagah ya kael maryo, Walo mashook miyane}
+  \item \bigroman{Bah surat chukh cze parii, cze shoobi jaamai zarri}
+  \item \bigroman{Kamov taweezei kareii, walo mashook miyane}
+  \item \bigroman{Wasakh nah yaare bhali, Chalai nah khoreh phalai}
+  \item \bigroman{Mei na zanh yeim dhaag czalai, walo mashook miyane}
+  \item \bigroman{Czei chukh na husni kamaal mei hawtham jaane jaamaal}
+  \item \bigroman{Gamikh neil kalle shahmaar, walo mashook miyane}
 \end{enumerate}
 
 \columnbreak
 
-\begin{enumerate}[left=0pt,label=\arabic*.]
-\item \bigarabic{یار میون وچھن نندرَس}
-\item \bigarabic{ہش ہش کرن چھ وانس}
-\item \bigarabic{څولٖہ گو رنگ وٿون}
-\item \bigarabic{باپوس چھ رنگ رزنوس}
+\begin{RTL}
+\begin{enumerate}[leftmargin=*, label=\arabic*., font=\fontsize{16pt}{18pt}\selectfont]
+  \item \bigarabic{کٹیوں چھُکھ نندھ بنے، والو مشوک میانے}
+  \item \bigarabic{مِی کوروی نہ چھنائی چھنائی، والو مشوک میانے}
+  \item \bigarabic{شرابک پیالے بھرےو، گلابان مالے کریو}
+  \item \bigarabic{پگاہ یا کائل مایو، والو مشوک میانے}
+  \item \bigarabic{بہ صورت چھُکھ چہ پری، چہ شوبی جامے زری}
+  \item \bigarabic{کامو تواویزی کرےی، والو مشوک میانے}
+  \item \bigarabic{وساخ نہ یارے بھلی، چلائی نہ کھورے پھلائی}
+  \item \bigarabic{مِی نہ زنہ یم داغ چڑھائی، والو مشوک میانے}
+  \item \bigarabic{چہ چھُکھ نہ حسنی کمال، مِی ہاتھم جانے جمال}
+  \item \bigarabic{گامکھ نیل کالے شاہمار، والو مشوک میانے}
+\end{enumerate}
+\end{RTL}
+\end{multicols}
+
+\subsection*{Hukus Bukus}
+\textbf{For:} Folk Song \quad \textbf{Type:} Traditional\\
+\textbf{Description:} A traditional Kashmiri folk song expressing love and longing.
+
+\begin{multicols}{2}
+\begin{enumerate}[leftmargin=*, label=\arabic*., font=\fontsize{16pt}{18pt}\selectfont]
+  \item \bigroman{Hukus bukus teli wan cze kus}
+  \item \bigroman{Onum batuk lodum deegi}
+  \item \bigroman{Shwas khich khich waamano}
+  \item \bigroman{Braman zaaran pooien chokum}
+  \item \bigroman{Tykes tekkah bani kyoho}
+  \item \bigroman{Mohobatuk lodum deegi}
+  \item \bigroman{Shwaas khich khich waangnou}
+  \item \bigroman{Bhraman zaaran pyoone chokum}
+  \item \bigroman{Tekis tyekkah bani kyekho}
+  \item \bigroman{Bisht bisht braaryo khout kho wan}
+  \item \bigroman{Toor kyoho woluth babri pan}
+  \item \bigroman{Su kaman chokuth kootran}
+  \item \bigroman{Kootar beethe maarkan}
+  \item \bigroman{Zoon chei gindaan taarkan}
+  \item \bigroman{Zoonmaaj zooni ayengan}
+  \item \bigroman{Myengan czoitaegi}
+  \item \bigroman{Zoon maaj zooni angan}
+  \item \bigroman{Myengan tem kas kani}
+  \item \bigroman{Raayas kani}
+  \item \bigroman{Rai kya dyutnei khasvun gur}
+  \item \bigroman{Waswen naav}
 \end{enumerate}
 
+\columnbreak
+
+\begin{RTL}
+\begin{enumerate}[leftmargin=*, label=\arabic*., font=\fontsize{16pt}{18pt}\selectfont]
+  \item \bigarabic{ہُکُس بُکُس ٹیلی وان زے کُس}
+  \item \bigarabic{اُنُم بَٹُک لودُم دیگی}
+  \item \bigarabic{شواس کھچ کھچ وآمُو}
+  \item \bigarabic{برامن زارَن پُویِن چُوکُم}
+  \item \bigarabic{ٹِکِس ٹِکَہ بَنی کیوُہ}
+  \item \bigarabic{محبتک لودُم دیگی}
+  \item \bigarabic{شواس کھچ کھچ وآنگنُو}
+  \item \bigarabic{بھرامن زارَن پُیُوں چُوکُم}
+  \item \bigarabic{ٹِکِس ٹِکَہ بَنی کیکھُو}
+  \item \bigarabic{بِشٹ بِشٹ بَرایُوں خَوتْ کھو وان}
+  \item \bigarabic{تُور کیوُہ وَلُتھ بَابری پان}
+  \item \bigarabic{سُو کَمان چُوکُتھ کُوٹَڑَن}
+  \item \bigarabic{کُوٹَر بیٹھے مارکان}
+  \item \bigarabic{زُون چے گِندَاں تَرکَاں}
+  \item \bigarabic{زُونماج زُونی ایَنگَن}
+  \item \bigarabic{مینگن چُوئٹَگی}
+  \item \bigarabic{زُون ماج زُونی انگَن}
+  \item \bigarabic{مینگن تَم کس کَنی}
+  \item \bigarabic{رایاس کَنی}
+  \item \bigarabic{رای کیا دیُتنے خاصُوں گُر}
+  \item \bigarabic{وَسْوَن ناو}
+\end{enumerate}
+\end{RTL}
+\end{multicols}
+
+\subsection*{Bumro}
+\textbf{For:} Folk Song \quad \textbf{Type:} Traditional\\
+\textbf{Description:} A soulful Kashmiri folk song, expressing longing and devotion.
+
+\begin{multicols}{2}
+\begin{enumerate}[leftmargin=*, label=\arabic*., font=\fontsize{16pt}{18pt}\selectfont]
+  \item \bigroman{Bumro bumro shaam rang bumroo}
+  \item \bigroman{Bumro bumro shaam rang bumroo}
+  \item \bigroman{Kaize chukh yuth nalano}
+  \item \bigroman{ooo ooo ooo ho ho ho}
+  \item \bigroman{Kaize chukh yuth nalano}
+  \item \bigroman{ooo ooo ooo ho ho ho}
+  \item \bigroman{Haal bhav panunei, ha shaam son diro}
+  \item \bigroman{Haal bhav panunei, ha shaam son diro}
+  \item \bigroman{Ais karo jaan qurbano}
+  \item \bigroman{ooo ooo ooo ho ho ho}
+  \item \bigroman{Ais karo jaan qurbano}
+  \item \bigroman{ooo ooo ooo ho ho ho}
+  \item \bigroman{Bumras yemberzal bei samkhawun}
+  \item \bigroman{Bumras yemberzal bei samkhawun}
+  \item \bigroman{Aasnavon bostano}
+  \item \bigroman{ooo ooo ooo ho ho ho}
+  \item \bigroman{Aasnavon bostano}
+  \item \bigroman{ooo ooo ooo ho ho ho}
+\end{enumerate}
+
+\columnbreak
+
+\begin{RTL}
+\begin{enumerate}[leftmargin=*, label=\arabic*., font=\fontsize{16pt}{18pt}\selectfont]
+  \item \bigarabic{بُمرُو بُمرُو شام رنگ بُمرُو}
+  \item \bigarabic{بُمرُو بُمرُو شام رنگ بُمرُو}
+  \item \bigarabic{کائزے چُکھ یُوتھ نالانُو}
+  \item \bigarabic{او او او او ہو ہو ہو}
+  \item \bigarabic{کائزے چُکھ یُوتھ نالانُو}
+  \item \bigarabic{او او او او ہو ہو ہو}
+  \item \bigarabic{حال بھو پنُنی، ہا شام سُن دیرو}
+  \item \bigarabic{حال بھو پنُنی، ہا شام سُن دیرو}
+  \item \bigarabic{آئس کرو جان قربانُو}
+  \item \bigarabic{او او او او ہو ہو ہو}
+  \item \bigarabic{آئس کرو جان قربانُو}
+  \item \bigarabic{او او او او ہو ہو ہو}
+  \item \bigarabic{بُمرَس یمبَرزَل بے سامخواُن}
+  \item \bigarabic{بُمرَس یمبَرزَل بے سامخواُن}
+  \item \bigarabic{آسناوَن بُستانُو}
+  \item \bigarabic{او او او او ہو ہو ہو}
+  \item \bigarabic{آسناوَن بُستانُو}
+  \item \bigarabic{او او او او ہو ہو ہو}
+\end{enumerate}
+\end{RTL}
+\end{multicols}
+
+\subsection*{Paerthow Gilas Kul Tal}
+\textbf{For:} Groom \quad \textbf{Type:} Celebratory\\
+\textbf{Description:} A joyful song welcoming the groom's procession.
+
+\begin{multicols}{2}
+\begin{enumerate}[leftmargin=*, label=\arabic*., font=\fontsize{16pt}{18pt}\selectfont]
+  \item \bigroman{Dimyo dilas gandyo alas paertho gilas kulne tal}
+  \item \bigroman{Dimyo dilas gandyo alas paertho gilas kulne tal}
+  \item \bigroman{Paerthow gilas kulne tal}
+  \item \bigroman{Lai phali myeani waltho khaas}
+  \item \bigroman{Paerthow gilas kulne tal}
+  \item \bigroman{Paerthow gilas kulne tal}
+  \item \bigroman{Lole chani lalwan puafe tai maase wanwaan drai moi yemberzal}
+  \item \bigroman{Lole chani lalwan puafe tai maase wanwan drai moi yemberzal}
+  \item \bigroman{Wanwan drai moi yemberzal}
+  \item \bigroman{Truati man gariyo lati tai khaase}
+  \item \bigroman{Paerthow gilas kulne tal}
+  \item \bigroman{Paertho gilas kulne tal}
+  \item \bigroman{Dimyo dilas gandyo alas paertho gilas kulne tal}
+  \item \bigroman{Yor ha aayes chani akhlaase and wand roze mea cheani kal}
+  \item \bigroman{Yor ha aayes chani akhlaase and wand roze mea cheani kal}
+  \item \bigroman{And wand rozi mea cheani kal}
+  \item \bigroman{And wand rozi mea cheani kal}
+  \item \bigroman{Maam laal oyi tai dimyo dilas}
+  \item \bigroman{Paertho gilas kulne tal}
+  \item \bigroman{Dimyo dilas gandyo alas}
+  \item \bigroman{Paerthow gilas kulne tal}
+\end{enumerate}
+
+\columnbreak
+
+\begin{RTL}
+\begin{enumerate}[leftmargin=*, label=\arabic*., font=\fontsize{16pt}{18pt}\selectfont]
+  \item \bigarabic{دِمیوں دِلاس گینڈو آلاس پیٔرتھو گِلَس کُلنی تَل}
+  \item \bigarabic{دِمیوں دِلاس گینڈو آلاس پیٔرتھو گِلَس کُلنی تَل}
+  \item \bigarabic{پیٔرتھو گِلَس کُلنی تَل}
+  \item \bigarabic{لَی فَلی مِیانی والْتو خاص}
+  \item \bigarabic{پیٔرتھو گِلَس کُلنی تَل}
+  \item \bigarabic{پیٔرتھو گِلَس کُلنی تَل}
+  \item \bigarabic{لوَلے چَنی لَلوان پُوافے تائی مَاسے وَنوان ڈرائی مَوی یَمبرزال}
+  \item \bigarabic{لوَلے چَنی لَلوان پُوافے تائی مَاسے وَنوان ڈرائی مَوی یَمبرزال}
+  \item \bigarabic{وَنوان ڈرائی مَوی یَمبرزال}
+  \item \bigarabic{تروَتی من گارِیُوں لَتی تائی خاصے}
+  \item \bigarabic{پیٔرتھو گِلَس کُلنی تَل}
+  \item \bigarabic{پیٔرتھو گِلَس کُلنی تَل}
+  \item \bigarabic{دِمیوں دِلاس گینڈو آلاس پیٔرتھو گِلَس کُلنی تَل}
+  \item \bigarabic{یار ہا آیِس چَنی آخلَاسے اور وَند روزے میا چَنی کَل}
+  \item \bigarabic{یار ہا آیِس چَنی آخلَاسے اور وَند روزے میا چَنی کَل}
+  \item \bigarabic{اور وَند روزے میا چَنی کَل}
+  \item \bigarabic{اور وَند روزے میا چَنی کَل}
+  \item \bigarabic{مَام لال اوی تائی دِمیوں دِلاس}
+  \item \bigarabic{پیٔرتھو گِلَس کُلنی تَل}
+  \item \bigarabic{دِمیوں دِلاس گینڈو آلاس}
+  \item \bigarabic{پیٔرتھو گِلَس کُلنی تَل}
+\end{enumerate}
+\end{RTL}
+\end{multicols}
+
+
+\subsection*{Aakho Shehre Shirazo}
+\textbf{For:} General \quad \textbf{Type:} Celebratory\\
+\textbf{Description:} A lively and spirited song celebrating the beauty and grandeur of the city of Shiraz.
+
+\begin{multicols}{2}
+\begin{enumerate}[leftmargin=*, label=\arabic*., font=\fontsize{16pt}{18pt}\selectfont]
+  \item \bigroman{Shokh chaeni waiyai, changnei sazo}
+  \item \bigroman{Shokh chaeni waiyai, changnei sazo}
+  \item \bigroman{Aakho shehre shirazo}
+  \item \bigroman{AAKHOV SHEHR-E-SHEERAZO}
+  \item \bigroman{Horre chai wanwan, noor mahrazooo}
+  \item \bigroman{Horre chai wanwan, noor mahrazooo}
+  \item \bigroman{Aakho shehre shirazo}
+  \item \bigroman{Aakho shehre shirazo}
+  \item \bigroman{Shokh chaeni waiyai, changnei sazo}
+  \item \bigroman{Shokh chaeni waiyai, changnei sazo}
+  \item \bigroman{AAKHOV SHEHR-E-SHEERAZO}
+  \item \bigroman{Czhei chukh yazman, chounui mahrazoo}
+  \item \bigroman{czha kholo leli hendh darwazo}
+  \item \bigroman{czha kholo leli hendh darwazo}
+  \item \bigroman{Czhei chukh yazman, chounui mahrazoo}
+  \item \bigroman{czha kholo leli hendh darwazo}
+  \item \bigroman{czha kholo leli hendh darwazo}
+  \item \bigroman{Lael chai porith, sormeiti sazo}
+  \item \bigroman{Lael chai porith, sormeiti sazo}
+  \item \bigroman{Aakho shehre shirazo}
+  \item \bigroman{Aakho shehre shirazo}
+  \item \bigroman{Shokh chaeni waiyai, changnei sazo}
+  \item \bigroman{Shokh chaeni waiyai, changnei sazo}
+  \item \bigroman{Aakho shehre shirazo}
+  \item \bigroman{Aakho shehre shirazo}
+  \item \bigroman{Laeli hindi malaen bahshath wazoo}
+  \item \bigroman{Khas khas naimeth rananawan}
+  \item \bigroman{Khas khas naimeth rananawan}
+  \item \bigroman{Laeli hindi malaen bahshath wazoo}
+  \item \bigroman{Khas khas naimeth rananawan}
+  \item \bigroman{Khas khas naimeth rananawan}
+  \item \bigroman{Salar seeth chei poore andazo}
+  \item \bigroman{Salar seeth chei poore andazo}
+  \item \bigroman{Aakho shehre shirazo}
+  \item \bigroman{Aakho shehre shirazo}
+  \item \bigroman{Shokh chaeni waiyai, changnei sazo}
+  \item \bigroman{Shokh chaeni waiyai, changnei sazo}
+  \item \bigroman{Aakho shehre shirazo}
+  \item \bigroman{Aakho shehre shirazo}
+  \item \bigroman{Ath Deewan-khanas bah darwazo}
+  \item \bigroman{Shaha sultan yeti gahha travaan}
+  \item \bigroman{Shaha sultan yeti gahha travaan}
+  \item \bigroman{Ath Deewan-khanas bah darwazo}
+  \item \bigroman{Shaha sultan yeti gahha travaan}
+  \item \bigroman{Shaha sultan yeti gahha travaan}
+  \item \bigroman{Sui gaash sarkar haa ai-yazo}
+  \item \bigroman{Sui gaash sarkar haa ai-yazo}
+  \item \bigroman{Aakho shehre shirazo}
+  \item \bigroman{Aakho shehre shirazo}
+  \item \bigroman{Shokh chaeni waiyai, changnei sazo}
+  \item \bigroman{Shokh chaeni waiyai, changnei sazo}
+  \item \bigroman{Aakho shehre shirazo}
+  \item \bigroman{Aakho shehre shirazo}
+  \item \bigroman{Horre chai wanwan, noor mahrazooo}
+  \item \bigroman{Horre chai wanwan, noor mahrazooo}
+  \item \bigroman{Aakho shehre shirazo}
+  \item \bigroman{Aakho shehre shirazo}
+  \item \bigroman{Aakho shehre shirazo}
+  \item \bigroman{Aakho shehre shirazo}
+\end{enumerate}
+
+\columnbreak
+
+\begin{RTL}
+\begin{enumerate}[leftmargin=*, label=\arabic*., font=\fontsize{16pt}{18pt}\selectfont]
+  \item \bigarabic{شوکھ چینی وایٔی، چنگنی سازو}
+  \item \bigarabic{شوکھ چینی وایٔی، چنگنی سازو}
+  \item \bigarabic{آکھو شہرِ شیرازُو}
+  \item \bigarabic{آکھو شہرِ شیرازُو}
+  \item \bigarabic{ہورے چہٕ وانوَن، نور مَہرزو}
+  \item \bigarabic{ہورے چہٕ وانوَن، نور مَہرزو}
+  \item \bigarabic{آکھو شہرِ شیرازُو}
+  \item \bigarabic{آکھو شہرِ شیرازُو}
+  \item \bigarabic{شوکھ چینی وایٔی، چنگنی سازو}
+  \item \bigarabic{شوکھ چینی وایٔی، چنگنی سازو}
+  \item \bigarabic{آکھو شہرِ شیرازُو}
+  \item \bigarabic{چھی چھُہ یزمن، چونُوی مَہرزو}
+  \item \bigarabic{چھَہ کھولُو لَیلی ہنڈھ دروازو}
+  \item \bigarabic{چھَہ کھولُو لَیلی ہنڈھ دروازو}
+  \item \bigarabic{چھی چھُہ یزمن، چونُوی مَہرزو}
+  \item \bigarabic{چھَہ کھولُو لَیلی ہنڈھ دروازو}
+  \item \bigarabic{چھَہ کھولُو لَیلی ہنڈھ دروازو}
+  \item \bigarabic{لیل چہٕ پورتھ، سرمیتی سازو}
+  \item \bigarabic{لیل چہٕ پورتھ، سرمیتی سازو}
+  \item \bigarabic{آکھو شہرِ شیرازُو}
+  \item \bigarabic{آکھو شہرِ شیرازُو}
+  \item \bigarabic{شوکھ چینی وایٔی، چنگنی سازو}
+  \item \bigarabic{شوکھ چینی وایٔی، چنگنی سازو}
+  \item \bigarabic{آکھو شہرِ شیرازُو}
+  \item \bigarabic{آکھو شہرِ شیرازُو}
+  \item \bigarabic{لیلی ہندی ملائیں بحشَت وزُو}
+  \item \bigarabic{خاص خاص نیمتھ رنانوں}
+  \item \bigarabic{خاص خاص نیمتھ رنانوں}
+  \item \bigarabic{لیلی ہندی ملائیں بحشَت وزُو}
+  \item \bigarabic{خاص خاص نیمتھ رنانوں}
+  \item \bigarabic{خاص خاص نیمتھ رنانوں}
+  \item \bigarabic{سالَر سیٹھ چھُہ پورے اندازو}
+  \item \bigarabic{سالَر سیٹھ چھُہ پورے اندازو}
+  \item \bigarabic{آکھو شہرِ شیرازُو}
+  \item \bigarabic{آکھو شہرِ شیرازُو}
+  \item \bigarabic{شوکھ چینی وایٔی، چنگنی سازو}
+  \item \bigarabic{شوکھ چینی وایٔی، چنگنی سازو}
+  \item \bigarabic{آکھو شہرِ شیرازُو}
+  \item \bigarabic{آکھو شہرِ شیرازُو}
+  \item \bigarabic{اتھ دیوان خانس بہ دروازو}
+  \item \bigarabic{شاہا سلطان یتی گاہہ ترواں}
+  \item \bigarabic{شاہا سلطان یتی گاہہ ترواں}
+  \item \bigarabic{اتھ دیوان خانس بہ دروازو}
+  \item \bigarabic{شاہا سلطان یتی گاہہ ترواں}
+  \item \bigarabic{شاہا سلطان یتی گاہہ ترواں}
+  \item \bigarabic{سوی گاش سرکار ہا آئیٔیَزو}
+  \item \bigarabic{سوی گاش سرکار ہا آئیٔیَزو}
+  \item \bigarabic{آکھو شہرِ شیرازُو}
+  \item \bigarabic{آکھو شہرِ شیرازُو}
+  \item \bigarabic{شوکھ چینی وایٔی، چنگنی سازو}
+  \item \bigarabic{شوکھ چینی وایٔی، چنگنی سازو}
+  \item \bigarabic{آکھو شہرِ شیرازُو}
+  \item \bigarabic{آکھو شہرِ شیرازُو}
+  \item \bigarabic{ہورے چہٕ وانوَن، نور مَہرزو}
+  \item \bigarabic{ہورے چہٕ وانوَن، نور مَہرزو}
+  \item \bigarabic{آکھو شہرِ شیرازُو}
+  \item \bigarabic{آکھو شہرِ شیرازُو}
+  \item \bigarabic{آکھو شہرِ شیرازُو}
+  \item \bigarabic{آکھو شہرِ شیرازُو}
+\end{enumerate}
+\end{RTL}
+\end{multicols}
+
+\subsection*{Shrone Kari Lo Lo}
+\textbf{For:} Folk Song \quad \textbf{Type:} Traditional\\
+\textbf{Description:} A lively Kashmiri folk song with a rhythmic pattern.
+
+\begin{multicols}{2}
+\begin{enumerate}[leftmargin=*, label=\arabic*., font=\fontsize{16pt}{18pt}\selectfont]
+  \item \bigroman{Shrone kare bengren te naere lo lo}
+  \item \bigroman{Lael choor aawe suli ghar lo lo}
+  \item \bigroman{Shrone kare ohoho, shrone kare ahaha}
+  \item \bigroman{Shrone kare bengre}
+  \item \bigroman{Posh phelah ahaha, posh phelah ohoho}
+  \item \bigroman{Posh phala yaawan thari lo lo}
+  \item \bigroman{Bab maalun ahaha, raaze maalun ohoho}
+  \item \bigroman{Zinde rozu maali myani ghar lo lo}
+\end{enumerate}
+
+\columnbreak
+
+\begin{RTL}
+\begin{enumerate}[leftmargin=*, label=\arabic*., font=\fontsize{16pt}{18pt}\selectfont]
+  \item \bigarabic{شرون کرے بینگرن تے نیرے لو لو}
+  \item \bigarabic{لال چُور آوے سُلی گھر لو لو}
+  \item \bigarabic{شرون کرے اوہو، شرون کرے آہاہا}
+  \item \bigarabic{شرون کرے بینگرے}
+  \item \bigarabic{پوش پھیلوں آہاہا، پوش پھیلوں اوہوہو}
+  \item \bigarabic{پوش پھلا یاوان تھاری لو لو}
+  \item \bigarabic{باب مالوں آہاہا، راز مالوں اوہوہو}
+  \item \bigarabic{زندہ روزو مالی میانی گھر لو لو}
+\end{enumerate}
+\end{RTL}
+\end{multicols}
+\subsection*{Roshay Madno Cholhoma}
+\textbf{For:} General \quad \textbf{Type:} Romantic\\
+\textbf{Description:} A song that conveys longing and a deep emotional plea to a loved one, inviting them to share in a connection despite the difficulties in life.
+
+\begin{multicols}{2}
+\begin{enumerate}[leftmargin=*, label=\arabic*., font=\fontsize{16pt}{18pt}\selectfont]
+  \item \bigroman{Walay vasiye gaswai hyee-yai}
+  \item \bigroman{Yus mari su katyu yeeyai}
+  \item \bigroman{Praaraan tahenzei zyee-yai}
+  \item \bigroman{Walo myani pooshay madno}
+  \item \bigroman{Walay vasiye gaswai babrai}
+  \item \bigroman{Chok looi namo loole tabri}
+  \item \bigroman{Zah na aak myani khabrai}
+  \item \bigroman{Walo myani pooshay madno}
+  \item \bigroman{Wal Weis gaswai babrai}
+  \item \bigroman{Chok looi namo loole tabri}
+  \item \bigroman{Zah na aak myani khabrai}
+  \item \bigroman{Walo myani pooshay madno}
+  \item \bigroman{Wal Weis gaswai hyandai}
+  \item \bigroman{Paneneo kaed haso rhandai}
+  \item \bigroman{Teman teo moun hue banay}
+  \item \bigroman{Walo myani poshay madno}
+  \item \bigroman{Walay vasiye gatchav van tay}
+  \item \bigroman{Lookav barihas kan tay}
+  \item \bigroman{Tee booz tami saadan tay}
+  \item \bigroman{Walo myani pooshay madno}
+  \item \bigroman{Wal Weis gaswai abas}
+  \item \bigroman{Duniya neendri te khwabas}
+  \item \bigroman{Kus weni dedi tai babas}
+  \item \bigroman{Walo myani pooshay madno}
+\end{enumerate}
+
+\columnbreak
+
+\begin{RTL}
+\begin{enumerate}[leftmargin=*, label=\arabic*., font=\fontsize{16pt}{18pt}\selectfont]
+  \item \bigarabic{والے واسیے گسوئے ہیے یائی}
+  \item \bigarabic{یُس ماری سو کتُو یئی یائی}
+  \item \bigarabic{پراں تہنذئی زیے یائی}
+  \item \bigarabic{والو میانی پوشے مدنو}
+  \item \bigarabic{والے واسیے گسوئے ببرائی}
+  \item \bigarabic{چوک لوئی نمُو لوُل تَبری}
+  \item \bigarabic{زہ نہ آک میانی خبری}
+  \item \bigarabic{والو میانی پوشے مدنو}
+  \item \bigarabic{وال ویس گسوئے ببرائی}
+  \item \bigarabic{چوک لوئی نمُو لوُل تَبری}
+  \item \bigarabic{زہ نہ آک میانی خبری}
+  \item \bigarabic{والو میانی پوشے مدنو}
+  \item \bigarabic{وال ویس گسوئے ہینڈائی}
+  \item \bigarabic{پانیوں کہڈ ھاسو رھندائی}
+  \item \bigarabic{تیمَن تیؤ موں ہوئے بنے}
+  \item \bigarabic{والو میانی پوشے مدنو}
+  \item \bigarabic{والے واسیے گچھَو ون تے}
+  \item \bigarabic{لوکَو بریہس کان تے}
+  \item \bigarabic{تی بوز تَمی سادن تے}
+  \item \bigarabic{والو میانی پوشے مدنو}
+  \item \bigarabic{وال ویس گسوئے ابَس}
+  \item \bigarabic{دُنیا نیندری تے خوابس}
+  \item \bigarabic{کُس وینی دِیڈی تائی بابس}
+  \item \bigarabic{والو میانی پوشے مدنو}
+\end{enumerate}
+\end{RTL}
+\end{multicols}
+
+\subsection*{Saanz Kar Koree}
+\textbf{For:} General \quad \textbf{Type:} Folk\\
+\textbf{Description:} A traditional Kashmiri folk song reflecting emotions of longing, familial bonds, and personal reflections.
+
+\begin{multicols}{2}
+\begin{enumerate}[leftmargin=*, label=\arabic*., font=\fontsize{16pt}{18pt}\selectfont]
+  \item \bigroman{Saanz kar koree, saanz kar kooree, warev chuy gachun}
+  \item \bigroman{Travee koree khanemajar danas chuy pavun}
+  \item \bigroman{Oh my daddy, oh my daddy tate kha chum karun}
+  \item \bigroman{Ye mai monghum te mai ditmukh, toete ne khosh tem}
+  \item \bigroman{Waen chum GP fund ti bonus thath te patay chim}
+  \item \bigroman{Kuch bi hoga O my daddy waqtas seet pakun}
+  \item \bigroman{Shayad panen gunah khatenm tee chum waen basan}
+  \item \bigroman{Mai oos koree khaab wuchmut naavid maes kasaan}
+  \item \bigroman{I don't care O my daddy ath chune path razun}
+  \item \bigroman{Ristadaran hamsayan chu az karun saal}
+  \item \bigroman{Akh baran yaade nate bata baye wanam jadal}
+  \item \bigroman{Take it easy O my daddy ath lagne sanun}
+\end{enumerate}
+
+\columnbreak
+
+\begin{RTL}
+\begin{enumerate}[leftmargin=*, label=\arabic*., font=\fontsize{16pt}{18pt}\selectfont]
+  \item \bigarabic{سانز کر کوری، سانز کر کوری، واریو چھُگ گچُن}
+  \item \bigarabic{تروی کر کوری خانمجار دانس چھُو پاؤُن}
+  \item \bigarabic{او مائی ڈیڈی، او مائی ڈیڈی تتے کھا چُم کرُن}
+  \item \bigarabic{یے مائی مونگھم تے مائی دِت مُکھ، توتے نہ خوش تم}
+  \item \bigarabic{وین چم جی پی فنڈ تی بونس تھتھ تے پتای چھِم}
+  \item \bigarabic{کچھ بھی ہوگا او مائی ڈیڈی وقتس سیٹ پکھُن}
+  \item \bigarabic{شاید پنیں گناہ کھاتم تی چم وین بسَن}
+  \item \bigarabic{مائی اوس کر کوری خواب وچمُت ناوِد مائس کسان}
+  \item \bigarabic{آئی ڈونٹ کیئر او مائی ڈیڈی آتھ چُنے پاتھ رازُن}
+  \item \bigarabic{رِستاداران ہمسایاں چھُ از کرُن سال}
+  \item \bigarabic{آکھ بارَن یادے نہتے باتا بائے ونام جدَل}
+  \item \bigarabic{ٹیک اِٹ ایزی او مائی ڈیڈی آتھ لگنے سنُن}
+\end{enumerate}
+\end{RTL}
 \end{multicols}
 
 \end{document}

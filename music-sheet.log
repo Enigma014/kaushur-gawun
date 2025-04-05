@@ -1,44 +1,44 @@
-This is XeTeX, Version 3.141592653-2.6-0.999996 (TeX Live 2024) (preloaded format=xelatex 2024.11.28)  5 APR 2025 16:24
+This is XeTeX, Version 3.141592653-2.6-0.999995 (TeX Live 2023/Debian) (preloaded format=xelatex 2025.4.5)  5 APR 2025 18:48
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
 **music-sheet.tex
 (./music-sheet.tex
 LaTeX2e <2023-11-01> patch level 1
-L3 programming layer <2024-02-20>
-(/usr/local/texlive/2024basic/texmf-dist/tex/latex/base/article.cls
+L3 programming layer <2024-01-22>
+(/usr/share/texlive/texmf-dist/tex/latex/base/article.cls
 Document Class: article 2023/05/17 v1.4n Standard LaTeX document class
-(/usr/local/texlive/2024basic/texmf-dist/tex/latex/base/size12.clo
+(/usr/share/texlive/texmf-dist/tex/latex/base/size12.clo
 File: size12.clo 2023/05/17 v1.4n Standard LaTeX file (size option)
 )
-\c@part=\count184
-\c@section=\count185
-\c@subsection=\count186
-\c@subsubsection=\count187
-\c@paragraph=\count188
-\c@subparagraph=\count189
-\c@figure=\count190
-\c@table=\count191
+\c@part=\count183
+\c@section=\count184
+\c@subsection=\count185
+\c@subsubsection=\count186
+\c@paragraph=\count187
+\c@subparagraph=\count188
+\c@figure=\count189
+\c@table=\count190
 \abovecaptionskip=\skip48
 \belowcaptionskip=\skip49
 \bibindent=\dimen140
 )
-(/usr/local/texlive/2024basic/texmf-dist/tex/latex/geometry/geometry.sty
+(/usr/share/texlive/texmf-dist/tex/latex/geometry/geometry.sty
 Package: geometry 2020/01/02 v5.9 Page Geometry
 
-(/usr/local/texlive/2024basic/texmf-dist/tex/latex/graphics/keyval.sty
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/keyval.sty
 Package: keyval 2022/05/29 v1.15 key=value parser (DPC)
 \KV@toks@=\toks17
 )
-(/usr/local/texlive/2024basic/texmf-dist/tex/generic/iftex/ifvtex.sty
+(/usr/share/texlive/texmf-dist/tex/generic/iftex/ifvtex.sty
 Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
 
-(/usr/local/texlive/2024basic/texmf-dist/tex/generic/iftex/iftex.sty
+(/usr/share/texlive/texmf-dist/tex/generic/iftex/iftex.sty
 Package: iftex 2022/02/03 v1.0f TeX engine tests
 ))
-\Gm@cnth=\count192
-\Gm@cntv=\count193
-\c@Gm@tempcnt=\count194
+\Gm@cnth=\count191
+\Gm@cntv=\count192
+\c@Gm@tempcnt=\count193
 \Gm@bindingoffset=\dimen141
 \Gm@wd@mp=\dimen142
 \Gm@odd@mp=\dimen143
@@ -49,16 +49,16 @@ Package: iftex 2022/02/03 v1.0f TeX engine tests
 \Gm@layoutvoffset=\dimen148
 \Gm@dimlist=\toks18
 )
-(/usr/local/texlive/2024basic/texmf-dist/tex/latex/tools/multicol.sty
+(/usr/share/texlive/texmf-dist/tex/latex/tools/multicol.sty
 Package: multicol 2023/03/30 v1.9f multicolumn formatting (FMi)
-\c@tracingmulticols=\count195
+\c@tracingmulticols=\count194
 \mult@box=\box51
 \multicol@leftmargin=\dimen149
-\c@unbalance=\count196
-\c@collectmore=\count197
-\doublecol@number=\count198
-\multicoltolerance=\count199
-\multicolpretolerance=\count266
+\c@unbalance=\count195
+\c@collectmore=\count196
+\doublecol@number=\count197
+\multicoltolerance=\count198
+\multicolpretolerance=\count199
 \full@width=\dimen150
 \page@free=\dimen151
 \premulticols=\dimen152
@@ -109,17 +109,17 @@ Package: multicol 2023/03/30 v1.9f multicolumn formatting (FMi)
 \@tempa=\box92
 \@tempa=\box93
 \@tempa=\box94
-\c@minrows=\count267
-\c@columnbadness=\count268
-\c@finalcolumnbadness=\count269
+\c@minrows=\count266
+\c@columnbadness=\count267
+\c@finalcolumnbadness=\count268
 \last@try=\dimen155
 \multicolovershoot=\dimen156
 \multicolundershoot=\dimen157
 \mult@nat@firstbox=\box95
 \colbreak@box=\box96
-\mc@col@check@num=\count270
+\mc@col@check@num=\count269
 )
-(/usr/local/texlive/2024basic/texmf-dist/tex/latex/fancyhdr/fancyhdr.sty
+(/usr/share/texlive/texmf-dist/tex/latex/fancyhdr/fancyhdr.sty
 Package: fancyhdr 2022/11/09 v4.1 Extensive control of page headers and footers
 
 \f@nch@headwidth=\skip52
@@ -132,97 +132,1058 @@ Package: fancyhdr 2022/11/09 v4.1 Extensive control of page headers and footers
 \f@nch@O@olf=\skip59
 \f@nch@O@orf=\skip60
 )
-(/usr/local/texlive/2024basic/texmf-dist/tex/latex/polyglossia/polyglossia.sty
-Package: polyglossia 2024/03/07 v2.1 Modern multilingual typesetting with XeLaT
-eX and LuaLaTeX
+(/usr/share/texlive/texmf-dist/tex/latex/polyglossia/polyglossia.sty
+Package: polyglossia 2023/12/11 v1.66 Modern multilingual typesetting with XeLa
+TeX and LuaLaTeX
 
-(/usr/local/texlive/2024basic/texmf-dist/tex/latex/etoolbox/etoolbox.sty
+(/usr/share/texlive/texmf-dist/tex/latex/etoolbox/etoolbox.sty
 Package: etoolbox 2020/10/05 v2.5k e-TeX tools for LaTeX (JAW)
-\etb@tempcnta=\count271
+\etb@tempcnta=\count270
 )
-(/usr/local/texlive/2024basic/texmf-dist/tex/latex/xkeyval/xkeyval.sty
+(/usr/share/texlive/texmf-dist/tex/latex/xkeyval/xkeyval.sty
 Package: xkeyval 2022/06/16 v2.9 package option processing (HA)
 
-(/usr/local/texlive/2024basic/texmf-dist/tex/generic/xkeyval/xkeyval.tex
-(/usr/local/texlive/2024basic/texmf-dist/tex/generic/xkeyval/xkvutils.tex
+(/usr/share/texlive/texmf-dist/tex/generic/xkeyval/xkeyval.tex
+(/usr/share/texlive/texmf-dist/tex/generic/xkeyval/xkvutils.tex
 \XKV@toks=\toks19
 \XKV@tempa@toks=\toks20
 )
-\XKV@depth=\count272
+\XKV@depth=\count271
 File: xkeyval.tex 2014/12/03 v2.7a key=value parser (HA)
 ))
-(/usr/local/texlive/2024basic/texmf-dist/tex/latex/fontspec/fontspec.sty
-(/usr/local/texlive/2024basic/texmf-dist/tex/latex/l3packages/xparse/xparse.sty
-(/usr/local/texlive/2024basic/texmf-dist/tex/latex/l3kernel/expl3.sty
-Package: expl3 2024-02-20 L3 programming layer (loader) 
+(/usr/share/texlive/texmf-dist/tex/latex/fontspec/fontspec.sty
+(/usr/share/texlive/texmf-dist/tex/latex/l3packages/xparse/xparse.sty
+(/usr/share/texlive/texmf-dist/tex/latex/l3kernel/expl3.sty
+Package: expl3 2024-01-22 L3 programming layer (loader) 
 
-(/usr/local/texlive/2024basic/texmf-dist/tex/latex/l3backend/l3backend-xetex.de
-f
-File: l3backend-xetex.def 2024-02-20 L3 backend support: XeTeX
-\g__graphics_track_int=\count273
+(/usr/share/texlive/texmf-dist/tex/latex/l3backend/l3backend-xetex.def
+File: l3backend-xetex.def 2024-01-04 L3 backend support: XeTeX
+\g__graphics_track_int=\count272
 \l__pdf_internal_box=\box97
-\g__pdf_backend_object_int=\count274
-\g__pdf_backend_annotation_int=\count275
-\g__pdf_backend_link_int=\count276
+\g__pdf_backend_object_int=\count273
+\g__pdf_backend_annotation_int=\count274
+\g__pdf_backend_link_int=\count275
 ))
-Package: xparse 2024-02-18 L3 Experimental document command parser
+Package: xparse 2023-10-10 L3 Experimental document command parser
 )
-Package: fontspec 2024/02/13 v2.9a Font selection for XeLaTeX and LuaLaTeX
+Package: fontspec 2022/01/15 v2.8a Font selection for XeLaTeX and LuaLaTeX
 
-(/usr/local/texlive/2024basic/texmf-dist/tex/latex/fontspec/fontspec-xetex.sty
-Package: fontspec-xetex 2024/02/13 v2.9a Font selection for XeLaTeX and LuaLaTe
+(/usr/share/texlive/texmf-dist/tex/latex/fontspec/fontspec-xetex.sty
+Package: fontspec-xetex 2022/01/15 v2.8a Font selection for XeLaTeX and LuaLaTe
 X
-\l__fontspec_script_int=\count277
-\l__fontspec_language_int=\count278
-\l__fontspec_strnum_int=\count279
-\l__fontspec_tmp_int=\count280
-\l__fontspec_tmpa_int=\count281
-\l__fontspec_tmpb_int=\count282
-\l__fontspec_tmpc_int=\count283
-\l__fontspec_em_int=\count284
-\l__fontspec_emdef_int=\count285
-\l__fontspec_strong_int=\count286
-\l__fontspec_strongdef_int=\count287
+\l__fontspec_script_int=\count276
+\l__fontspec_language_int=\count277
+\l__fontspec_strnum_int=\count278
+\l__fontspec_tmp_int=\count279
+\l__fontspec_tmpa_int=\count280
+\l__fontspec_tmpb_int=\count281
+\l__fontspec_tmpc_int=\count282
+\l__fontspec_em_int=\count283
+\l__fontspec_emdef_int=\count284
+\l__fontspec_strong_int=\count285
+\l__fontspec_strongdef_int=\count286
 \l__fontspec_tmpa_dim=\dimen158
 \l__fontspec_tmpb_dim=\dimen159
 \l__fontspec_tmpc_dim=\dimen160
 
-(/usr/local/texlive/2024basic/texmf-dist/tex/latex/base/fontenc.sty
+(/usr/share/texlive/texmf-dist/tex/latex/base/fontenc.sty
 Package: fontenc 2021/04/29 v2.0v Standard LaTeX package
 )
-(/usr/local/texlive/2024basic/texmf-dist/tex/latex/fontspec/fontspec.cfg)))
-(/usr/local/texlive/2024basic/texmf-dist/tex/latex/polyglossia/gloss-latex.ldf
-File: gloss-latex.ldf polyglossia: module for default language
+(/usr/share/texlive/texmf-dist/tex/latex/fontspec/fontspec.cfg)))
+\xpg@normalclass=\XeTeXcharclass1
+
+(/usr/share/texlive/texmf-dist/tex/latex/polyglossia/gloss-latex.lde
+Package: gloss-latex 2023/12/11 v1.66 polyglossia: module for default language
 )
 Package polyglossia Info: Default language is latex.
 )
+(/usr/share/texlive/texmf-dist/tex/latex/titlesec/titlesec.sty
+Package: titlesec 2023/10/27 v2.16 Sectioning titles
+\ttl@box=\box98
+\beforetitleunit=\skip61
+\aftertitleunit=\skip62
+\ttl@plus=\dimen161
+\ttl@minus=\dimen162
+\ttl@toksa=\toks21
+\titlewidth=\dimen163
+\titlewidthlast=\dimen164
+\titlewidthfirst=\dimen165
+)
+(/usr/share/texlive/texmf-dist/tex/latex/enumitem/enumitem.sty
+Package: enumitem 2019/06/20 v3.9 Customized lists
+\labelindent=\skip63
+\enit@outerparindent=\dimen166
+\enit@toks=\toks22
+\enit@inbox=\box99
+\enit@count@id=\count287
+\enitdp@description=\count288
+)
+(/usr/share/texlive/texmf-dist/tex/latex/ragged2e/ragged2e.sty
+Package: ragged2e 2023/06/22 v3.6 ragged2e Package
+\CenteringLeftskip=\skip64
+\RaggedLeftLeftskip=\skip65
+\RaggedRightLeftskip=\skip66
+\CenteringRightskip=\skip67
+\RaggedLeftRightskip=\skip68
+\RaggedRightRightskip=\skip69
+\CenteringParfillskip=\skip70
+\RaggedLeftParfillskip=\skip71
+\RaggedRightParfillskip=\skip72
+\JustifyingParfillskip=\skip73
+\CenteringParindent=\skip74
+\RaggedLeftParindent=\skip75
+\RaggedRightParindent=\skip76
+\JustifyingParindent=\skip77
+)
+(/usr/share/texlive/texmf-dist/tex/latex/parskip/parskip.sty
+Package: parskip 2021-03-14 v2.0h non-zero parskip adjustments
 
-! LaTeX Error: File `titlesec.sty' not found.
+(/usr/share/texlive/texmf-dist/tex/latex/kvoptions/kvoptions.sty
+Package: kvoptions 2022-06-15 v3.15 Key value format for package options (HO)
 
-Type X to quit or <RETURN> to proceed,
-or enter new name. (Default extension: sty)
+(/usr/share/texlive/texmf-dist/tex/generic/ltxcmds/ltxcmds.sty
+Package: ltxcmds 2023-12-04 v1.26 LaTeX kernel commands for general use (HO)
+)
+(/usr/share/texlive/texmf-dist/tex/latex/kvsetkeys/kvsetkeys.sty
+Package: kvsetkeys 2022-10-05 v1.19 Key value parser (HO)
+)))
+(/usr/share/texlive/texmf-dist/tex/latex/polyglossia/gloss-english.ldf
+File: gloss-english.ldf polyglossia: module for English
+Package polyglossia Info: Option: English, variant=american.
+)
+Package polyglossia Info: Default language is english.
 
-Enter file name: sudo tlmgr install titlesec
+(/usr/share/texlive/texmf-dist/tex/latex/polyglossia/gloss-arabic.ldf
+File: gloss-arabic.ldf polyglossia: module for Arabic
 
-! LaTeX Error: File `sudo tlmgr install titlesec.sty' not found.
+(/usr/share/texlive/texmf-dist/tex/xelatex/bidi/bidi.sty
+Package: bidi 2023/08/02 v39.8 (Release Donald Ervin Knuth) Bidirectional types
+etting in plain TeX and LaTeX
 
-Type X to quit or <RETURN> to proceed,
-or enter new name. (Default extension: sty)
+****************************************************
+* 
+* bidi package (Bidirectional typesetting in
+* plain TeX and LaTeX, using XeTeX engine)
+* 
+* Description: A convenient interface for
+* typesetting bidirectional texts in plain TeX
+* and LaTeX. The package includes adaptations
+* for use with many other commonly-used packages.
+* 
+* Copyright (c) 2007--2023 Vafa Khalighi
+* Copyright (c) 2018--2020 bidi-tex GitHub organization
+* 
+* v39.8 (Release Donald Ervin Knuth), 2023/08/02
+* 
+* License: LaTeX Project Public License, version
+* 1.3c or higher (your choice)
+* 
+* Location on CTAN: /macros/xetex/latex/bidi
+* 
+* Issue tracker: https://github.com/kvafa/bidi/issues
+* 
+* Discussions: https://github.com/kvafa/bidi/discussions
+* 
+* Primary author of bidi package: Vafa Khalighi.
+* 
+****************************************************
+(/usr/share/texlive/texmf-dist/tex/xelatex/bidi/biditools.sty
+Package: biditools 2022/06/15 v2.3 Programming tools for bidi package
+\@bidi@envbody=\toks23
+\@bidi@emptytoks=\toks24
+\bidi@poscount=\count289
+\bidi@tempcountb=\count290
+\bidi@temptoksa=\toks25
+\bidi@temptoksb=\toks26
+\bidi@dummies=\count291
+\bidi@are@these@correct=\toks27
+\bidi@toks@lista=\toks28
+\bidi@toks@listb=\toks29
+\bidi@stack@length=\count292
+\bidi@empty@stack=\toks30
+\bidi@looprepeat@depth=\count293
+)
+(/usr/share/texlive/texmf-dist/tex/latex/zref/zref-abspage.sty
+Package: zref-abspage 2023-09-14 v2.35 Module abspage for zref (HO)
 
-Enter file name: x
-! Interruption.
-<to be read again> 
-                   }
-l.8 \usepackage
-               {lineno}^^M
-? x
- 
+(/usr/share/texlive/texmf-dist/tex/latex/zref/zref-base.sty
+Package: zref-base 2023-09-14 v2.35 Module base for zref (HO)
+
+(/usr/share/texlive/texmf-dist/tex/generic/infwarerr/infwarerr.sty
+Package: infwarerr 2019/12/03 v1.5 Providing info/warning/error messages (HO)
+)
+(/usr/share/texlive/texmf-dist/tex/generic/kvdefinekeys/kvdefinekeys.sty
+Package: kvdefinekeys 2019-12-19 v1.6 Define keys (HO)
+)
+(/usr/share/texlive/texmf-dist/tex/generic/pdftexcmds/pdftexcmds.sty
+Package: pdftexcmds 2020-06-27 v0.33 Utility functions of pdfTeX for LuaTeX (HO
+)
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode not found.
+)
+(/usr/share/texlive/texmf-dist/tex/generic/etexcmds/etexcmds.sty
+Package: etexcmds 2019/12/15 v1.7 Avoid name clashes with e-TeX commands (HO)
+)
+(/usr/share/texlive/texmf-dist/tex/latex/auxhook/auxhook.sty
+Package: auxhook 2019-12-17 v1.6 Hooks for auxiliary files (HO)
+)
+Package zref Info: New property list: main on input line 767.
+Package zref Info: New property: default on input line 768.
+Package zref Info: New property: page on input line 769.
+)
+\c@abspage=\count294
+Package zref Info: New property: abspage on input line 67.
+)
+\@bidi@copyins@=\insert252
+
+(/usr/share/texlive/texmf-dist/tex/xelatex/bidi/latex-xetex-bidi.def
+File: latex-xetex-bidi.def 2022/07/04 v1.4.9 bidi adaptations for `latex.ltx' f
+or XeTeX engine
+\bidi@n@everypar=\toks31
+\bidi@column@check@number=\count295
+
+(/usr/share/texlive/texmf-dist/tex/xelatex/bidi/footnote-xetex-bidi.def
+File: footnote-xetex-bidi.def 2023/01/18 v1.2 bidi footnote macros for XeTeX en
+gine
+\c@footdir@label=\count296
+\footdir@toks=\toks32
+)
+(/usr/share/texlive/texmf-dist/tex/xelatex/bidi/article-xetex-bidi.def
+File: article-xetex-bidi.def 2017/06/09 v0.6 bidi adaptations for standard arti
+cle class for XeTeX engine
+)
+(/usr/share/texlive/texmf-dist/tex/xelatex/bidi/geometry-xetex-bidi.def
+File: geometry-xetex-bidi.def 2017/01/14 v0.2 bidi adaptations for geometry pac
+kage for XeTeX engine
+)
+(/usr/share/texlive/texmf-dist/tex/xelatex/bidi/fancyhdr-xetex-bidi.def
+File: fancyhdr-xetex-bidi.def 2018/02/15 v0.7 bidi adaptations for fancyhdr pac
+kage for XeTeX engine
+)
+(/usr/share/texlive/texmf-dist/tex/xelatex/bidi/titlesec-xetex-bidi.def
+File: titlesec-xetex-bidi.def 2010/07/25 v0.1 bidi adaptations for titlesec pac
+kage for XeTeX engine
+)
+(/usr/share/texlive/texmf-dist/tex/xelatex/bidi/multicol-xetex-bidi.def
+File: multicol-xetex-bidi.def 2022/07/10 v1.4 bidi adaptations for multicol pac
+kage for XeTeX engine
+)
+(/usr/share/texlive/texmf-dist/tex/xelatex/bidi/ragged2e-xetex-bidi.def
+File: ragged2e-xetex-bidi.def 2018/10/17 v0.3 bidi adaptations for ragged2e pac
+kage for XeTeX engine
+))
+(/usr/share/texlive/texmf-dist/tex/xelatex/bidi/loadingorder-xetex-bidi.def
+File: loadingorder-xetex-bidi.def 2017/12/29 v0.97 making sure that bidi is the
+ last package loaded
+)
+\bidi@digits=\count297
+\bidi@digits@charclass=\XeTeXcharclass2
+\bidi@sepmark@charclass=\XeTeXcharclass3
+)
+(/usr/share/texlive/texmf-dist/tex/latex/polyglossia/arabicnumbers.sty
+Package: arabicnumbers 2010/03/18 v0.2 Formatting of Arabic and Farsi digits an
+d of Arabic abjad numerals
+)
+(/usr/share/texlive/texmf-dist/tex/latex/polyglossia/hijrical.sty
+Package: hijrical 2010/07/12 v0.2 Islamic calendar
+
+(/usr/share/texlive/texmf-dist/tex/latex/tools/calc.sty
+Package: calc 2023/07/08 v4.3 Infix arithmetic (KKT,FJ)
+\calc@Acount=\count298
+\calc@Bcount=\count299
+\calc@Adimen=\dimen167
+\calc@Bdimen=\dimen168
+\calc@Askip=\skip78
+\calc@Bskip=\skip79
+LaTeX Info: Redefining \setlength on input line 80.
+LaTeX Info: Redefining \addtolength on input line 81.
+\calc@Ccount=\count300
+\calc@Cskip=\skip80
+)
+(/usr/share/texlive/texmf-dist/tex/latex/polyglossia/cal-util.def
+\c@tmpA=\count301
+\c@tmpB=\count302
+\c@tmpC=\count303
+\c@tmpD=\count304
+\c@tmpE=\count305
+\c@tmpF=\count306
+)
+\c@Hijriday=\count307
+\c@Hijrimonth=\count308
+\c@Hijriyear=\count309
+)
+Package polyglossia Info: Option: arabic, locale=default.
+Package polyglossia Info: Option: Arabic, calendar=gregorian.
+Package polyglossia Info: Option: Arabic, numerals=mashriq.
+)
+
+Package polyglossia Warning: Unknown Arabic numerals option `arabic' on input l
+ine 14.
+
+
+Package polyglossia Warning: Unknown Arabic numerals option `arabic' on input l
+ine 14.
+
+
+Package polyglossia Warning: Unknown Arabic numerals option `arabic' on input l
+ine 14.
+
+
+Package fontspec Info: Could not resolve font "Jameel Noori Nastaleeq/BI" (it
+(fontspec)             probably doesn't exist).
+
+
+Package fontspec Info: Could not resolve font "Jameel Noori Nastaleeq/B" (it
+(fontspec)             probably doesn't exist).
+
+
+Package fontspec Info: Could not resolve font "Jameel Noori Nastaleeq/I" (it
+(fontspec)             probably doesn't exist).
+
+
+Package fontspec Info: Font family 'JameelNooriNastaleeq(0)' created for font
+(fontspec)             'Jameel Noori Nastaleeq' with options [Script=Arabic].
+(fontspec)              
+(fontspec)              This font family consists of the following NFSS
+(fontspec)             series/shapes:
+(fontspec)              
+(fontspec)             - 'normal' (m/n) with NFSS spec.: <->"Jameel Noori
+(fontspec)             Nastaleeq/OT:script=arab;language=dflt;"
+(fontspec)             - 'small caps'  (m/sc) with NFSS spec.: 
+
+(./music-sheet.aux)
+\openout1 = `music-sheet.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 35.
+LaTeX Font Info:    ... okay on input line 35.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 35.
+LaTeX Font Info:    ... okay on input line 35.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 35.
+LaTeX Font Info:    ... okay on input line 35.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 35.
+LaTeX Font Info:    ... okay on input line 35.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 35.
+LaTeX Font Info:    Trying to load font information for TS1+cmr on input line 3
+5.
+ (/usr/share/texlive/texmf-dist/tex/latex/base/ts1cmr.fd
+File: ts1cmr.fd 2023/04/13 v2.5m Standard LaTeX font definitions
+)
+LaTeX Font Info:    ... okay on input line 35.
+LaTeX Font Info:    Checking defaults for TU/lmr/m/n on input line 35.
+LaTeX Font Info:    ... okay on input line 35.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 35.
+LaTeX Font Info:    ... okay on input line 35.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 35.
+LaTeX Font Info:    ... okay on input line 35.
+
+*geometry* driver: auto-detecting
+*geometry* detected driver: xetex
+*geometry* verbose mode - [ preamble ] result:
+* driver: xetex
+* paper: a4paper
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* modes: 
+* h-part:(L,W,R)=(72.26999pt, 452.9679pt, 72.26999pt)
+* v-part:(T,H,B)=(72.26999pt, 700.50687pt, 72.26999pt)
+* \paperwidth=597.50787pt
+* \paperheight=845.04684pt
+* \textwidth=452.9679pt
+* \textheight=700.50687pt
+* \oddsidemargin=0.0pt
+* \evensidemargin=0.0pt
+* \topmargin=-37.0pt
+* \headheight=12.0pt
+* \headsep=25.0pt
+* \topskip=12.0pt
+* \footskip=30.0pt
+* \marginparwidth=44.0pt
+* \marginparsep=10.0pt
+* \columnsep=10.0pt
+* \skip\footins=10.8pt plus 4.0pt minus 2.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidefalse
+* \@mparswitchfalse
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
+
+Package fontspec Info: Adjusting the maths setup (use [no-math] to avoid
+(fontspec)             this).
+
+\symlegacymaths=\mathgroup4
+LaTeX Font Info:    Overwriting symbol font `legacymaths' in version `bold'
+(Font)                  OT1/cmr/m/n --> OT1/cmr/bx/n on input line 35.
+LaTeX Font Info:    Redeclaring math accent \acute on input line 35.
+LaTeX Font Info:    Redeclaring math accent \grave on input line 35.
+LaTeX Font Info:    Redeclaring math accent \ddot on input line 35.
+LaTeX Font Info:    Redeclaring math accent \tilde on input line 35.
+LaTeX Font Info:    Redeclaring math accent \bar on input line 35.
+LaTeX Font Info:    Redeclaring math accent \breve on input line 35.
+LaTeX Font Info:    Redeclaring math accent \check on input line 35.
+LaTeX Font Info:    Redeclaring math accent \hat on input line 35.
+LaTeX Font Info:    Redeclaring math accent \dot on input line 35.
+LaTeX Font Info:    Redeclaring math accent \mathring on input line 35.
+LaTeX Font Info:    Redeclaring math symbol \colon on input line 35.
+LaTeX Font Info:    Redeclaring math symbol \Gamma on input line 35.
+LaTeX Font Info:    Redeclaring math symbol \Delta on input line 35.
+LaTeX Font Info:    Redeclaring math symbol \Theta on input line 35.
+LaTeX Font Info:    Redeclaring math symbol \Lambda on input line 35.
+LaTeX Font Info:    Redeclaring math symbol \Xi on input line 35.
+LaTeX Font Info:    Redeclaring math symbol \Pi on input line 35.
+LaTeX Font Info:    Redeclaring math symbol \Sigma on input line 35.
+LaTeX Font Info:    Redeclaring math symbol \Upsilon on input line 35.
+LaTeX Font Info:    Redeclaring math symbol \Phi on input line 35.
+LaTeX Font Info:    Redeclaring math symbol \Psi on input line 35.
+LaTeX Font Info:    Redeclaring math symbol \Omega on input line 35.
+LaTeX Font Info:    Redeclaring math symbol \mathdollar on input line 35.
+LaTeX Font Info:    Redeclaring symbol font `operators' on input line 35.
+LaTeX Font Info:    Encoding `OT1' has changed to `TU' for symbol font
+(Font)              `operators' in the math version `normal' on input line 35.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
+(Font)                  OT1/cmr/m/n --> TU/lmr/m/n on input line 35.
+LaTeX Font Info:    Encoding `OT1' has changed to `TU' for symbol font
+(Font)              `operators' in the math version `bold' on input line 35.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
+(Font)                  OT1/cmr/bx/n --> TU/lmr/m/n on input line 35.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
+(Font)                  TU/lmr/m/n --> TU/lmr/m/n on input line 35.
+LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `normal'
+(Font)                  OT1/cmr/m/it --> TU/lmr/m/it on input line 35.
+LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `normal'
+(Font)                  OT1/cmr/bx/n --> TU/lmr/b/n on input line 35.
+LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `normal'
+(Font)                  OT1/cmss/m/n --> TU/lmss/m/n on input line 35.
+LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `normal'
+(Font)                  OT1/cmtt/m/n --> TU/lmtt/m/n on input line 35.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
+(Font)                  TU/lmr/m/n --> TU/lmr/b/n on input line 35.
+LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
+(Font)                  OT1/cmr/bx/it --> TU/lmr/b/it on input line 35.
+LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
+(Font)                  OT1/cmss/bx/n --> TU/lmss/b/n on input line 35.
+LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
+(Font)                  OT1/cmtt/m/n --> TU/lmtt/b/n on input line 35.
+LaTeX Info: Redefining \rmfamily on input line 35.
+LaTeX Info: Redefining \sffamily on input line 35.
+LaTeX Info: Redefining \ttfamily on input line 35.
+LaTeX Info: Redefining \rmfamily on input line 71.
+LaTeX Info: Redefining \sffamily on input line 71.
+LaTeX Info: Redefining \ttfamily on input line 71.
+LaTeX Info: Redefining \rmfamily on input line 72.
+LaTeX Info: Redefining \sffamily on input line 72.
+LaTeX Info: Redefining \ttfamily on input line 72.
+LaTeX Info: Redefining \rmfamily on input line 73.
+LaTeX Info: Redefining \sffamily on input line 73.
+LaTeX Info: Redefining \ttfamily on input line 73.
+LaTeX Info: Redefining \rmfamily on input line 74.
+LaTeX Info: Redefining \sffamily on input line 74.
+LaTeX Info: Redefining \ttfamily on input line 74.
+LaTeX Info: Redefining \rmfamily on input line 75.
+LaTeX Info: Redefining \sffamily on input line 75.
+LaTeX Info: Redefining \ttfamily on input line 75.
+LaTeX Info: Redefining \rmfamily on input line 76.
+LaTeX Info: Redefining \sffamily on input line 76.
+LaTeX Info: Redefining \ttfamily on input line 76.
+LaTeX Info: Redefining \rmfamily on input line 77.
+LaTeX Info: Redefining \sffamily on input line 77.
+LaTeX Info: Redefining \ttfamily on input line 77.
+LaTeX Info: Redefining \rmfamily on input line 78.
+LaTeX Info: Redefining \sffamily on input line 78.
+LaTeX Info: Redefining \ttfamily on input line 78.
+LaTeX Info: Redefining \rmfamily on input line 79.
+LaTeX Info: Redefining \sffamily on input line 79.
+LaTeX Info: Redefining \ttfamily on input line 79.
+LaTeX Info: Redefining \rmfamily on input line 80.
+LaTeX Info: Redefining \sffamily on input line 80.
+LaTeX Info: Redefining \ttfamily on input line 80.
+LaTeX Info: Redefining \rmfamily on input line 81.
+LaTeX Info: Redefining \sffamily on input line 81.
+LaTeX Info: Redefining \ttfamily on input line 81.
+LaTeX Info: Redefining \rmfamily on input line 82.
+LaTeX Info: Redefining \sffamily on input line 82.
+LaTeX Info: Redefining \ttfamily on input line 82.
+LaTeX Info: Redefining \rmfamily on input line 83.
+LaTeX Info: Redefining \sffamily on input line 83.
+LaTeX Info: Redefining \ttfamily on input line 83.
+Missing character: There is no ۓ (U+06D3) in font Jameel Noori Nastaleeq/OT:scr
+ipt=arab;language=dflt;!
+LaTeX Info: Redefining \rmfamily on input line 84.
+LaTeX Info: Redefining \sffamily on input line 84.
+LaTeX Info: Redefining \ttfamily on input line 84.
+LaTeX Info: Redefining \rmfamily on input line 85.
+LaTeX Info: Redefining \sffamily on input line 85.
+LaTeX Info: Redefining \ttfamily on input line 85.
+LaTeX Info: Redefining \rmfamily on input line 86.
+LaTeX Info: Redefining \sffamily on input line 86.
+LaTeX Info: Redefining \ttfamily on input line 86.
+LaTeX Info: Redefining \rmfamily on input line 87.
+LaTeX Info: Redefining \sffamily on input line 87.
+LaTeX Info: Redefining \ttfamily on input line 87.
+LaTeX Info: Redefining \rmfamily on input line 88.
+LaTeX Info: Redefining \sffamily on input line 88.
+LaTeX Info: Redefining \ttfamily on input line 88.
+LaTeX Info: Redefining \rmfamily on input line 89.
+LaTeX Info: Redefining \sffamily on input line 89.
+LaTeX Info: Redefining \ttfamily on input line 89.
+[1
+
+]
+LaTeX Info: Redefining \rmfamily on input line 116.
+LaTeX Info: Redefining \sffamily on input line 116.
+LaTeX Info: Redefining \ttfamily on input line 116.
+LaTeX Info: Redefining \rmfamily on input line 117.
+LaTeX Info: Redefining \sffamily on input line 117.
+LaTeX Info: Redefining \ttfamily on input line 117.
+LaTeX Info: Redefining \rmfamily on input line 118.
+LaTeX Info: Redefining \sffamily on input line 118.
+LaTeX Info: Redefining \ttfamily on input line 118.
+LaTeX Info: Redefining \rmfamily on input line 119.
+LaTeX Info: Redefining \sffamily on input line 119.
+LaTeX Info: Redefining \ttfamily on input line 119.
+LaTeX Info: Redefining \rmfamily on input line 120.
+LaTeX Info: Redefining \sffamily on input line 120.
+LaTeX Info: Redefining \ttfamily on input line 120.
+LaTeX Info: Redefining \rmfamily on input line 121.
+LaTeX Info: Redefining \sffamily on input line 121.
+LaTeX Info: Redefining \ttfamily on input line 121.
+LaTeX Info: Redefining \rmfamily on input line 122.
+LaTeX Info: Redefining \sffamily on input line 122.
+LaTeX Info: Redefining \ttfamily on input line 122.
+LaTeX Info: Redefining \rmfamily on input line 123.
+LaTeX Info: Redefining \sffamily on input line 123.
+LaTeX Info: Redefining \ttfamily on input line 123.
+LaTeX Info: Redefining \rmfamily on input line 124.
+LaTeX Info: Redefining \sffamily on input line 124.
+LaTeX Info: Redefining \ttfamily on input line 124.
+LaTeX Info: Redefining \rmfamily on input line 125.
+LaTeX Info: Redefining \sffamily on input line 125.
+LaTeX Info: Redefining \ttfamily on input line 125.
+LaTeX Info: Redefining \rmfamily on input line 163.
+LaTeX Info: Redefining \sffamily on input line 163.
+LaTeX Info: Redefining \ttfamily on input line 163.
+ [2]
+LaTeX Info: Redefining \rmfamily on input line 164.
+LaTeX Info: Redefining \sffamily on input line 164.
+LaTeX Info: Redefining \ttfamily on input line 164.
+LaTeX Info: Redefining \rmfamily on input line 165.
+LaTeX Info: Redefining \sffamily on input line 165.
+LaTeX Info: Redefining \ttfamily on input line 165.
+LaTeX Info: Redefining \rmfamily on input line 166.
+LaTeX Info: Redefining \sffamily on input line 166.
+LaTeX Info: Redefining \ttfamily on input line 166.
+LaTeX Info: Redefining \rmfamily on input line 167.
+LaTeX Info: Redefining \sffamily on input line 167.
+LaTeX Info: Redefining \ttfamily on input line 167.
+LaTeX Info: Redefining \rmfamily on input line 168.
+LaTeX Info: Redefining \sffamily on input line 168.
+LaTeX Info: Redefining \ttfamily on input line 168.
+LaTeX Info: Redefining \rmfamily on input line 169.
+LaTeX Info: Redefining \sffamily on input line 169.
+LaTeX Info: Redefining \ttfamily on input line 169.
+LaTeX Info: Redefining \rmfamily on input line 170.
+LaTeX Info: Redefining \sffamily on input line 170.
+LaTeX Info: Redefining \ttfamily on input line 170.
+LaTeX Info: Redefining \rmfamily on input line 171.
+LaTeX Info: Redefining \sffamily on input line 171.
+LaTeX Info: Redefining \ttfamily on input line 171.
+LaTeX Info: Redefining \rmfamily on input line 172.
+LaTeX Info: Redefining \sffamily on input line 172.
+LaTeX Info: Redefining \ttfamily on input line 172.
+LaTeX Info: Redefining \rmfamily on input line 173.
+LaTeX Info: Redefining \sffamily on input line 173.
+LaTeX Info: Redefining \ttfamily on input line 173.
+LaTeX Info: Redefining \rmfamily on input line 174.
+LaTeX Info: Redefining \sffamily on input line 174.
+LaTeX Info: Redefining \ttfamily on input line 174.
+LaTeX Info: Redefining \rmfamily on input line 175.
+LaTeX Info: Redefining \sffamily on input line 175.
+LaTeX Info: Redefining \ttfamily on input line 175.
+LaTeX Info: Redefining \rmfamily on input line 176.
+LaTeX Info: Redefining \sffamily on input line 176.
+LaTeX Info: Redefining \ttfamily on input line 176.
+LaTeX Info: Redefining \rmfamily on input line 177.
+LaTeX Info: Redefining \sffamily on input line 177.
+LaTeX Info: Redefining \ttfamily on input line 177.
+LaTeX Info: Redefining \rmfamily on input line 178.
+LaTeX Info: Redefining \sffamily on input line 178.
+LaTeX Info: Redefining \ttfamily on input line 178.
+LaTeX Info: Redefining \rmfamily on input line 179.
+LaTeX Info: Redefining \sffamily on input line 179.
+LaTeX Info: Redefining \ttfamily on input line 179.
+LaTeX Info: Redefining \rmfamily on input line 180.
+LaTeX Info: Redefining \sffamily on input line 180.
+LaTeX Info: Redefining \ttfamily on input line 180.
+LaTeX Info: Redefining \rmfamily on input line 181.
+LaTeX Info: Redefining \sffamily on input line 181.
+LaTeX Info: Redefining \ttfamily on input line 181.
+LaTeX Info: Redefining \rmfamily on input line 182.
+LaTeX Info: Redefining \sffamily on input line 182.
+LaTeX Info: Redefining \ttfamily on input line 182.
+LaTeX Info: Redefining \rmfamily on input line 183.
+LaTeX Info: Redefining \sffamily on input line 183.
+LaTeX Info: Redefining \ttfamily on input line 183.
+ [3]
+LaTeX Info: Redefining \rmfamily on input line 218.
+LaTeX Info: Redefining \sffamily on input line 218.
+LaTeX Info: Redefining \ttfamily on input line 218.
+LaTeX Info: Redefining \rmfamily on input line 219.
+LaTeX Info: Redefining \sffamily on input line 219.
+LaTeX Info: Redefining \ttfamily on input line 219.
+LaTeX Info: Redefining \rmfamily on input line 220.
+LaTeX Info: Redefining \sffamily on input line 220.
+LaTeX Info: Redefining \ttfamily on input line 220.
+LaTeX Info: Redefining \rmfamily on input line 221.
+LaTeX Info: Redefining \sffamily on input line 221.
+LaTeX Info: Redefining \ttfamily on input line 221.
+LaTeX Info: Redefining \rmfamily on input line 222.
+LaTeX Info: Redefining \sffamily on input line 222.
+LaTeX Info: Redefining \ttfamily on input line 222.
+LaTeX Info: Redefining \rmfamily on input line 223.
+LaTeX Info: Redefining \sffamily on input line 223.
+LaTeX Info: Redefining \ttfamily on input line 223.
+LaTeX Info: Redefining \rmfamily on input line 224.
+LaTeX Info: Redefining \sffamily on input line 224.
+LaTeX Info: Redefining \ttfamily on input line 224.
+LaTeX Info: Redefining \rmfamily on input line 225.
+LaTeX Info: Redefining \sffamily on input line 225.
+LaTeX Info: Redefining \ttfamily on input line 225.
+LaTeX Info: Redefining \rmfamily on input line 226.
+LaTeX Info: Redefining \sffamily on input line 226.
+LaTeX Info: Redefining \ttfamily on input line 226.
+LaTeX Info: Redefining \rmfamily on input line 227.
+LaTeX Info: Redefining \sffamily on input line 227.
+LaTeX Info: Redefining \ttfamily on input line 227.
+LaTeX Info: Redefining \rmfamily on input line 228.
+LaTeX Info: Redefining \sffamily on input line 228.
+LaTeX Info: Redefining \ttfamily on input line 228.
+LaTeX Info: Redefining \rmfamily on input line 229.
+LaTeX Info: Redefining \sffamily on input line 229.
+LaTeX Info: Redefining \ttfamily on input line 229.
+LaTeX Info: Redefining \rmfamily on input line 230.
+LaTeX Info: Redefining \sffamily on input line 230.
+LaTeX Info: Redefining \ttfamily on input line 230.
+LaTeX Info: Redefining \rmfamily on input line 231.
+LaTeX Info: Redefining \sffamily on input line 231.
+LaTeX Info: Redefining \ttfamily on input line 231.
+LaTeX Info: Redefining \rmfamily on input line 232.
+LaTeX Info: Redefining \sffamily on input line 232.
+LaTeX Info: Redefining \ttfamily on input line 232.
+LaTeX Info: Redefining \rmfamily on input line 233.
+LaTeX Info: Redefining \sffamily on input line 233.
+LaTeX Info: Redefining \ttfamily on input line 233.
+LaTeX Info: Redefining \rmfamily on input line 234.
+LaTeX Info: Redefining \sffamily on input line 234.
+LaTeX Info: Redefining \ttfamily on input line 234.
+LaTeX Info: Redefining \rmfamily on input line 235.
+LaTeX Info: Redefining \sffamily on input line 235.
+LaTeX Info: Redefining \ttfamily on input line 235.
+LaTeX Info: Redefining \rmfamily on input line 273.
+LaTeX Info: Redefining \sffamily on input line 273.
+LaTeX Info: Redefining \ttfamily on input line 273.
+ [4]
+LaTeX Info: Redefining \rmfamily on input line 274.
+LaTeX Info: Redefining \sffamily on input line 274.
+LaTeX Info: Redefining \ttfamily on input line 274.
+LaTeX Info: Redefining \rmfamily on input line 275.
+LaTeX Info: Redefining \sffamily on input line 275.
+LaTeX Info: Redefining \ttfamily on input line 275.
+LaTeX Info: Redefining \rmfamily on input line 276.
+LaTeX Info: Redefining \sffamily on input line 276.
+LaTeX Info: Redefining \ttfamily on input line 276.
+LaTeX Info: Redefining \rmfamily on input line 277.
+LaTeX Info: Redefining \sffamily on input line 277.
+LaTeX Info: Redefining \ttfamily on input line 277.
+LaTeX Info: Redefining \rmfamily on input line 278.
+LaTeX Info: Redefining \sffamily on input line 278.
+LaTeX Info: Redefining \ttfamily on input line 278.
+LaTeX Info: Redefining \rmfamily on input line 279.
+LaTeX Info: Redefining \sffamily on input line 279.
+LaTeX Info: Redefining \ttfamily on input line 279.
+
+Underfull \hbox (badness 10000) in paragraph at lines 279--280
+[][][]\TU/JameelNooriNastaleeq(0)/m/n/16 لوَلے چَنی لَلوان پُوافے تائی مَاسے وَ
+نوان ڈرائی مَوی[][]
+ []
+
+LaTeX Info: Redefining \rmfamily on input line 280.
+LaTeX Info: Redefining \sffamily on input line 280.
+LaTeX Info: Redefining \ttfamily on input line 280.
+
+Underfull \hbox (badness 10000) in paragraph at lines 280--281
+[][][]\TU/JameelNooriNastaleeq(0)/m/n/16 لوَلے چَنی لَلوان پُوافے تائی مَاسے وَ
+نوان ڈرائی مَوی[][]
+ []
+
+LaTeX Info: Redefining \rmfamily on input line 281.
+LaTeX Info: Redefining \sffamily on input line 281.
+LaTeX Info: Redefining \ttfamily on input line 281.
+LaTeX Info: Redefining \rmfamily on input line 282.
+LaTeX Info: Redefining \sffamily on input line 282.
+LaTeX Info: Redefining \ttfamily on input line 282.
+LaTeX Info: Redefining \rmfamily on input line 283.
+LaTeX Info: Redefining \sffamily on input line 283.
+LaTeX Info: Redefining \ttfamily on input line 283.
+LaTeX Info: Redefining \rmfamily on input line 284.
+LaTeX Info: Redefining \sffamily on input line 284.
+LaTeX Info: Redefining \ttfamily on input line 284.
+LaTeX Info: Redefining \rmfamily on input line 285.
+LaTeX Info: Redefining \sffamily on input line 285.
+LaTeX Info: Redefining \ttfamily on input line 285.
+LaTeX Info: Redefining \rmfamily on input line 286.
+LaTeX Info: Redefining \sffamily on input line 286.
+LaTeX Info: Redefining \ttfamily on input line 286.
+LaTeX Info: Redefining \rmfamily on input line 287.
+LaTeX Info: Redefining \sffamily on input line 287.
+LaTeX Info: Redefining \ttfamily on input line 287.
+LaTeX Info: Redefining \rmfamily on input line 288.
+LaTeX Info: Redefining \sffamily on input line 288.
+LaTeX Info: Redefining \ttfamily on input line 288.
+LaTeX Info: Redefining \rmfamily on input line 289.
+LaTeX Info: Redefining \sffamily on input line 289.
+LaTeX Info: Redefining \ttfamily on input line 289.
+LaTeX Info: Redefining \rmfamily on input line 290.
+LaTeX Info: Redefining \sffamily on input line 290.
+LaTeX Info: Redefining \ttfamily on input line 290.
+LaTeX Info: Redefining \rmfamily on input line 291.
+LaTeX Info: Redefining \sffamily on input line 291.
+LaTeX Info: Redefining \ttfamily on input line 291.
+LaTeX Info: Redefining \rmfamily on input line 292.
+LaTeX Info: Redefining \sffamily on input line 292.
+LaTeX Info: Redefining \ttfamily on input line 292.
+LaTeX Info: Redefining \rmfamily on input line 293.
+LaTeX Info: Redefining \sffamily on input line 293.
+LaTeX Info: Redefining \ttfamily on input line 293.
+[5]
+LaTeX Info: Redefining \rmfamily on input line 370.
+LaTeX Info: Redefining \sffamily on input line 370.
+LaTeX Info: Redefining \ttfamily on input line 370.
+LaTeX Info: Redefining \rmfamily on input line 371.
+LaTeX Info: Redefining \sffamily on input line 371.
+LaTeX Info: Redefining \ttfamily on input line 371.
+LaTeX Info: Redefining \rmfamily on input line 372.
+LaTeX Info: Redefining \sffamily on input line 372.
+LaTeX Info: Redefining \ttfamily on input line 372.
+LaTeX Info: Redefining \rmfamily on input line 373.
+LaTeX Info: Redefining \sffamily on input line 373.
+LaTeX Info: Redefining \ttfamily on input line 373.
+LaTeX Info: Redefining \rmfamily on input line 374.
+LaTeX Info: Redefining \sffamily on input line 374.
+LaTeX Info: Redefining \ttfamily on input line 374.
+LaTeX Info: Redefining \rmfamily on input line 375.
+LaTeX Info: Redefining \sffamily on input line 375.
+LaTeX Info: Redefining \ttfamily on input line 375.
+LaTeX Info: Redefining \rmfamily on input line 376.
+LaTeX Info: Redefining \sffamily on input line 376.
+LaTeX Info: Redefining \ttfamily on input line 376.
+LaTeX Info: Redefining \rmfamily on input line 377.
+LaTeX Info: Redefining \sffamily on input line 377.
+LaTeX Info: Redefining \ttfamily on input line 377.
+LaTeX Info: Redefining \rmfamily on input line 378.
+LaTeX Info: Redefining \sffamily on input line 378.
+LaTeX Info: Redefining \ttfamily on input line 378.
+LaTeX Info: Redefining \rmfamily on input line 379.
+LaTeX Info: Redefining \sffamily on input line 379.
+LaTeX Info: Redefining \ttfamily on input line 379.
+ [6]
+LaTeX Info: Redefining \rmfamily on input line 380.
+LaTeX Info: Redefining \sffamily on input line 380.
+LaTeX Info: Redefining \ttfamily on input line 380.
+LaTeX Info: Redefining \rmfamily on input line 381.
+LaTeX Info: Redefining \sffamily on input line 381.
+LaTeX Info: Redefining \ttfamily on input line 381.
+LaTeX Info: Redefining \rmfamily on input line 382.
+LaTeX Info: Redefining \sffamily on input line 382.
+LaTeX Info: Redefining \ttfamily on input line 382.
+LaTeX Info: Redefining \rmfamily on input line 383.
+LaTeX Info: Redefining \sffamily on input line 383.
+LaTeX Info: Redefining \ttfamily on input line 383.
+LaTeX Info: Redefining \rmfamily on input line 384.
+LaTeX Info: Redefining \sffamily on input line 384.
+LaTeX Info: Redefining \ttfamily on input line 384.
+LaTeX Info: Redefining \rmfamily on input line 385.
+LaTeX Info: Redefining \sffamily on input line 385.
+LaTeX Info: Redefining \ttfamily on input line 385.
+LaTeX Info: Redefining \rmfamily on input line 386.
+LaTeX Info: Redefining \sffamily on input line 386.
+LaTeX Info: Redefining \ttfamily on input line 386.
+LaTeX Info: Redefining \rmfamily on input line 387.
+LaTeX Info: Redefining \sffamily on input line 387.
+LaTeX Info: Redefining \ttfamily on input line 387.
+LaTeX Info: Redefining \rmfamily on input line 388.
+LaTeX Info: Redefining \sffamily on input line 388.
+LaTeX Info: Redefining \ttfamily on input line 388.
+LaTeX Info: Redefining \rmfamily on input line 389.
+LaTeX Info: Redefining \sffamily on input line 389.
+LaTeX Info: Redefining \ttfamily on input line 389.
+LaTeX Info: Redefining \rmfamily on input line 390.
+LaTeX Info: Redefining \sffamily on input line 390.
+LaTeX Info: Redefining \ttfamily on input line 390.
+LaTeX Info: Redefining \rmfamily on input line 391.
+LaTeX Info: Redefining \sffamily on input line 391.
+LaTeX Info: Redefining \ttfamily on input line 391.
+LaTeX Info: Redefining \rmfamily on input line 392.
+LaTeX Info: Redefining \sffamily on input line 392.
+LaTeX Info: Redefining \ttfamily on input line 392.
+LaTeX Info: Redefining \rmfamily on input line 393.
+LaTeX Info: Redefining \sffamily on input line 393.
+LaTeX Info: Redefining \ttfamily on input line 393.
+LaTeX Info: Redefining \rmfamily on input line 394.
+LaTeX Info: Redefining \sffamily on input line 394.
+LaTeX Info: Redefining \ttfamily on input line 394.
+LaTeX Info: Redefining \rmfamily on input line 395.
+LaTeX Info: Redefining \sffamily on input line 395.
+LaTeX Info: Redefining \ttfamily on input line 395.
+LaTeX Info: Redefining \rmfamily on input line 396.
+LaTeX Info: Redefining \sffamily on input line 396.
+LaTeX Info: Redefining \ttfamily on input line 396.
+LaTeX Info: Redefining \rmfamily on input line 397.
+LaTeX Info: Redefining \sffamily on input line 397.
+LaTeX Info: Redefining \ttfamily on input line 397.
+LaTeX Info: Redefining \rmfamily on input line 398.
+LaTeX Info: Redefining \sffamily on input line 398.
+LaTeX Info: Redefining \ttfamily on input line 398.
+LaTeX Info: Redefining \rmfamily on input line 399.
+LaTeX Info: Redefining \sffamily on input line 399.
+LaTeX Info: Redefining \ttfamily on input line 399.
+LaTeX Info: Redefining \rmfamily on input line 400.
+LaTeX Info: Redefining \sffamily on input line 400.
+LaTeX Info: Redefining \ttfamily on input line 400.
+LaTeX Info: Redefining \rmfamily on input line 401.
+LaTeX Info: Redefining \sffamily on input line 401.
+LaTeX Info: Redefining \ttfamily on input line 401.
+LaTeX Info: Redefining \rmfamily on input line 402.
+LaTeX Info: Redefining \sffamily on input line 402.
+LaTeX Info: Redefining \ttfamily on input line 402.
+LaTeX Info: Redefining \rmfamily on input line 403.
+LaTeX Info: Redefining \sffamily on input line 403.
+LaTeX Info: Redefining \ttfamily on input line 403.
+LaTeX Info: Redefining \rmfamily on input line 404.
+LaTeX Info: Redefining \sffamily on input line 404.
+LaTeX Info: Redefining \ttfamily on input line 404.
+LaTeX Info: Redefining \rmfamily on input line 405.
+LaTeX Info: Redefining \sffamily on input line 405.
+LaTeX Info: Redefining \ttfamily on input line 405.
+LaTeX Info: Redefining \rmfamily on input line 406.
+LaTeX Info: Redefining \sffamily on input line 406.
+LaTeX Info: Redefining \ttfamily on input line 406.
+LaTeX Info: Redefining \rmfamily on input line 407.
+LaTeX Info: Redefining \sffamily on input line 407.
+LaTeX Info: Redefining \ttfamily on input line 407.
+LaTeX Info: Redefining \rmfamily on input line 408.
+LaTeX Info: Redefining \sffamily on input line 408.
+LaTeX Info: Redefining \ttfamily on input line 408.
+LaTeX Info: Redefining \rmfamily on input line 409.
+LaTeX Info: Redefining \sffamily on input line 409.
+LaTeX Info: Redefining \ttfamily on input line 409.
+LaTeX Info: Redefining \rmfamily on input line 410.
+LaTeX Info: Redefining \sffamily on input line 410.
+LaTeX Info: Redefining \ttfamily on input line 410.
+LaTeX Info: Redefining \rmfamily on input line 411.
+LaTeX Info: Redefining \sffamily on input line 411.
+LaTeX Info: Redefining \ttfamily on input line 411.
+LaTeX Info: Redefining \rmfamily on input line 412.
+LaTeX Info: Redefining \sffamily on input line 412.
+LaTeX Info: Redefining \ttfamily on input line 412.
+LaTeX Info: Redefining \rmfamily on input line 413.
+LaTeX Info: Redefining \sffamily on input line 413.
+LaTeX Info: Redefining \ttfamily on input line 413.
+LaTeX Info: Redefining \rmfamily on input line 414.
+LaTeX Info: Redefining \sffamily on input line 414.
+LaTeX Info: Redefining \ttfamily on input line 414.
+LaTeX Info: Redefining \rmfamily on input line 415.
+LaTeX Info: Redefining \sffamily on input line 415.
+LaTeX Info: Redefining \ttfamily on input line 415.
+LaTeX Info: Redefining \rmfamily on input line 416.
+LaTeX Info: Redefining \sffamily on input line 416.
+LaTeX Info: Redefining \ttfamily on input line 416.
+LaTeX Info: Redefining \rmfamily on input line 417.
+LaTeX Info: Redefining \sffamily on input line 417.
+LaTeX Info: Redefining \ttfamily on input line 417.
+LaTeX Info: Redefining \rmfamily on input line 418.
+LaTeX Info: Redefining \sffamily on input line 418.
+LaTeX Info: Redefining \ttfamily on input line 418.
+LaTeX Info: Redefining \rmfamily on input line 419.
+LaTeX Info: Redefining \sffamily on input line 419.
+LaTeX Info: Redefining \ttfamily on input line 419.
+LaTeX Info: Redefining \rmfamily on input line 420.
+LaTeX Info: Redefining \sffamily on input line 420.
+LaTeX Info: Redefining \ttfamily on input line 420.
+LaTeX Info: Redefining \rmfamily on input line 421.
+LaTeX Info: Redefining \sffamily on input line 421.
+LaTeX Info: Redefining \ttfamily on input line 421.
+LaTeX Info: Redefining \rmfamily on input line 422.
+LaTeX Info: Redefining \sffamily on input line 422.
+LaTeX Info: Redefining \ttfamily on input line 422.
+LaTeX Info: Redefining \rmfamily on input line 423.
+LaTeX Info: Redefining \sffamily on input line 423.
+LaTeX Info: Redefining \ttfamily on input line 423.
+LaTeX Info: Redefining \rmfamily on input line 424.
+LaTeX Info: Redefining \sffamily on input line 424.
+LaTeX Info: Redefining \ttfamily on input line 424.
+LaTeX Info: Redefining \rmfamily on input line 425.
+LaTeX Info: Redefining \sffamily on input line 425.
+LaTeX Info: Redefining \ttfamily on input line 425.
+LaTeX Info: Redefining \rmfamily on input line 426.
+LaTeX Info: Redefining \sffamily on input line 426.
+LaTeX Info: Redefining \ttfamily on input line 426.
+LaTeX Info: Redefining \rmfamily on input line 427.
+LaTeX Info: Redefining \sffamily on input line 427.
+LaTeX Info: Redefining \ttfamily on input line 427.
+LaTeX Info: Redefining \rmfamily on input line 428.
+LaTeX Info: Redefining \sffamily on input line 428.
+LaTeX Info: Redefining \ttfamily on input line 428.
+ [7]
+LaTeX Info: Redefining \rmfamily on input line 453.
+LaTeX Info: Redefining \sffamily on input line 453.
+LaTeX Info: Redefining \ttfamily on input line 453.
+LaTeX Info: Redefining \rmfamily on input line 454.
+LaTeX Info: Redefining \sffamily on input line 454.
+LaTeX Info: Redefining \ttfamily on input line 454.
+LaTeX Info: Redefining \rmfamily on input line 455.
+LaTeX Info: Redefining \sffamily on input line 455.
+LaTeX Info: Redefining \ttfamily on input line 455.
+LaTeX Info: Redefining \rmfamily on input line 456.
+LaTeX Info: Redefining \sffamily on input line 456.
+LaTeX Info: Redefining \ttfamily on input line 456.
+LaTeX Info: Redefining \rmfamily on input line 457.
+LaTeX Info: Redefining \sffamily on input line 457.
+LaTeX Info: Redefining \ttfamily on input line 457.
+LaTeX Info: Redefining \rmfamily on input line 458.
+LaTeX Info: Redefining \sffamily on input line 458.
+LaTeX Info: Redefining \ttfamily on input line 458.
+LaTeX Info: Redefining \rmfamily on input line 459.
+LaTeX Info: Redefining \sffamily on input line 459.
+LaTeX Info: Redefining \ttfamily on input line 459.
+LaTeX Info: Redefining \rmfamily on input line 460.
+LaTeX Info: Redefining \sffamily on input line 460.
+LaTeX Info: Redefining \ttfamily on input line 460.
+LaTeX Info: Redefining \rmfamily on input line 500.
+LaTeX Info: Redefining \sffamily on input line 500.
+LaTeX Info: Redefining \ttfamily on input line 500.
+LaTeX Info: Redefining \rmfamily on input line 501.
+LaTeX Info: Redefining \sffamily on input line 501.
+LaTeX Info: Redefining \ttfamily on input line 501.
+LaTeX Info: Redefining \rmfamily on input line 502.
+LaTeX Info: Redefining \sffamily on input line 502.
+LaTeX Info: Redefining \ttfamily on input line 502.
+LaTeX Info: Redefining \rmfamily on input line 503.
+LaTeX Info: Redefining \sffamily on input line 503.
+LaTeX Info: Redefining \ttfamily on input line 503.
+LaTeX Info: Redefining \rmfamily on input line 504.
+LaTeX Info: Redefining \sffamily on input line 504.
+LaTeX Info: Redefining \ttfamily on input line 504.
+LaTeX Info: Redefining \rmfamily on input line 505.
+LaTeX Info: Redefining \sffamily on input line 505.
+LaTeX Info: Redefining \ttfamily on input line 505.
+LaTeX Info: Redefining \rmfamily on input line 506.
+LaTeX Info: Redefining \sffamily on input line 506.
+LaTeX Info: Redefining \ttfamily on input line 506.
+LaTeX Info: Redefining \rmfamily on input line 507.
+LaTeX Info: Redefining \sffamily on input line 507.
+LaTeX Info: Redefining \ttfamily on input line 507.
+LaTeX Info: Redefining \rmfamily on input line 508.
+LaTeX Info: Redefining \sffamily on input line 508.
+LaTeX Info: Redefining \ttfamily on input line 508.
+LaTeX Info: Redefining \rmfamily on input line 509.
+LaTeX Info: Redefining \sffamily on input line 509.
+LaTeX Info: Redefining \ttfamily on input line 509.
+LaTeX Info: Redefining \rmfamily on input line 510.
+LaTeX Info: Redefining \sffamily on input line 510.
+LaTeX Info: Redefining \ttfamily on input line 510.
+ [8]
+LaTeX Info: Redefining \rmfamily on input line 511.
+LaTeX Info: Redefining \sffamily on input line 511.
+LaTeX Info: Redefining \ttfamily on input line 511.
+LaTeX Info: Redefining \rmfamily on input line 512.
+LaTeX Info: Redefining \sffamily on input line 512.
+LaTeX Info: Redefining \ttfamily on input line 512.
+LaTeX Info: Redefining \rmfamily on input line 513.
+LaTeX Info: Redefining \sffamily on input line 513.
+LaTeX Info: Redefining \ttfamily on input line 513.
+LaTeX Info: Redefining \rmfamily on input line 514.
+LaTeX Info: Redefining \sffamily on input line 514.
+LaTeX Info: Redefining \ttfamily on input line 514.
+LaTeX Info: Redefining \rmfamily on input line 515.
+LaTeX Info: Redefining \sffamily on input line 515.
+LaTeX Info: Redefining \ttfamily on input line 515.
+LaTeX Info: Redefining \rmfamily on input line 516.
+LaTeX Info: Redefining \sffamily on input line 516.
+LaTeX Info: Redefining \ttfamily on input line 516.
+LaTeX Info: Redefining \rmfamily on input line 517.
+LaTeX Info: Redefining \sffamily on input line 517.
+LaTeX Info: Redefining \ttfamily on input line 517.
+LaTeX Info: Redefining \rmfamily on input line 518.
+LaTeX Info: Redefining \sffamily on input line 518.
+LaTeX Info: Redefining \ttfamily on input line 518.
+LaTeX Info: Redefining \rmfamily on input line 519.
+LaTeX Info: Redefining \sffamily on input line 519.
+LaTeX Info: Redefining \ttfamily on input line 519.
+LaTeX Info: Redefining \rmfamily on input line 520.
+LaTeX Info: Redefining \sffamily on input line 520.
+LaTeX Info: Redefining \ttfamily on input line 520.
+LaTeX Info: Redefining \rmfamily on input line 521.
+LaTeX Info: Redefining \sffamily on input line 521.
+LaTeX Info: Redefining \ttfamily on input line 521.
+LaTeX Info: Redefining \rmfamily on input line 522.
+LaTeX Info: Redefining \sffamily on input line 522.
+LaTeX Info: Redefining \ttfamily on input line 522.
+LaTeX Info: Redefining \rmfamily on input line 523.
+LaTeX Info: Redefining \sffamily on input line 523.
+LaTeX Info: Redefining \ttfamily on input line 523.
+LaTeX Info: Redefining \rmfamily on input line 552.
+LaTeX Info: Redefining \sffamily on input line 552.
+LaTeX Info: Redefining \ttfamily on input line 552.
+LaTeX Info: Redefining \rmfamily on input line 553.
+LaTeX Info: Redefining \sffamily on input line 553.
+LaTeX Info: Redefining \ttfamily on input line 553.
+LaTeX Info: Redefining \rmfamily on input line 554.
+LaTeX Info: Redefining \sffamily on input line 554.
+LaTeX Info: Redefining \ttfamily on input line 554.
+LaTeX Info: Redefining \rmfamily on input line 555.
+LaTeX Info: Redefining \sffamily on input line 555.
+LaTeX Info: Redefining \ttfamily on input line 555.
+LaTeX Info: Redefining \rmfamily on input line 556.
+LaTeX Info: Redefining \sffamily on input line 556.
+LaTeX Info: Redefining \ttfamily on input line 556.
+LaTeX Info: Redefining \rmfamily on input line 557.
+LaTeX Info: Redefining \sffamily on input line 557.
+LaTeX Info: Redefining \ttfamily on input line 557.
+LaTeX Info: Redefining \rmfamily on input line 558.
+LaTeX Info: Redefining \sffamily on input line 558.
+LaTeX Info: Redefining \ttfamily on input line 558.
+LaTeX Info: Redefining \rmfamily on input line 559.
+LaTeX Info: Redefining \sffamily on input line 559.
+LaTeX Info: Redefining \ttfamily on input line 559.
+LaTeX Info: Redefining \rmfamily on input line 560.
+LaTeX Info: Redefining \sffamily on input line 560.
+LaTeX Info: Redefining \ttfamily on input line 560.
+LaTeX Info: Redefining \rmfamily on input line 561.
+LaTeX Info: Redefining \sffamily on input line 561.
+LaTeX Info: Redefining \ttfamily on input line 561.
+LaTeX Info: Redefining \rmfamily on input line 562.
+LaTeX Info: Redefining \sffamily on input line 562.
+LaTeX Info: Redefining \ttfamily on input line 562.
+LaTeX Info: Redefining \rmfamily on input line 563.
+LaTeX Info: Redefining \sffamily on input line 563.
+LaTeX Info: Redefining \ttfamily on input line 563.
+ [9] [10] (./music-sheet.aux)
+ ***********
+LaTeX2e <2023-11-01> patch level 1
+L3 programming layer <2024-01-22>
+ ***********
+ ) 
 Here is how much of TeX's memory you used:
- 4880 strings out of 476290
- 131396 string characters out of 5789827
- 1917839 words of memory out of 5000000
- 26963 multiletter control sequences out of 15000+600000
- 558085 words of font info for 38 fonts, out of 8000000 for 9000
- 319 hyphenation exceptions out of 8191
- 93i,0n,107p,298b,73s stack positions out of 10000i,1000n,20000p,200000b,200000s
-No pages of output.
+ 8244 strings out of 476869
+ 200166 string characters out of 5804950
+ 1947627 words of memory out of 5000000
+ 30052 multiletter control sequences out of 15000+600000
+ 558157 words of font info for 47 fonts, out of 8000000 for 9000
+ 14 hyphenation exceptions out of 8191
+ 93i,11n,107p,2408b,741s stack positions out of 10000i,1000n,20000p,200000b,200000s
+
+Output written on music-sheet.pdf (10 pages).
