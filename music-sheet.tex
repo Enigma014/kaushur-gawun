@@ -1,0 +1,90 @@
+\documentclass[12pt]{article}
+\usepackage[a4paper,margin=1in]{geometry}
+\usepackage{multicol}
+\usepackage{fancyhdr}
+\usepackage{polyglossia}
+\usepackage{fontspec}
+\usepackage{titlesec}
+\usepackage{lineno}
+\usepackage{setspace}
+\usepackage{enumitem}
+\usepackage{ragged2e}
+\usepackage{parskip} % for better spacing between lines
+
+% Languages
+\setmainlanguage{english}
+\setotherlanguage{arabic}
+
+% Arabic font (customize if needed)
+\newfontfamily\arabicfont[Script=Arabic]{Jameel Noori Nastaleeq}
+
+% Romanized font
+\newcommand{\bigroman}[1]{\fontsize{16pt}{18pt}\selectfont\RaggedRight #1}
+
+% Arabic font large
+\newcommand{\bigarabic}[1]{\fontsize{16pt}{18pt}\selectfont\RaggedLeft \textarabic{#1}}
+
+% Page numbers
+\pagestyle{fancy}
+\fancyhf{}
+\fancyfoot[C]{\thepage}
+
+% Section formatting
+\titleformat{\section}
+  {\normalfont\fontsize{18pt}{20pt}\bfseries}{\thesection}{1em}{}
+
+% Line numbers only on text (not headers)
+\renewcommand\linenumberfont{\normalfont\bfseries\large}
+\modulolinenumbers[1]
+
+\begin{document}
+\setstretch{1.5}
+\linenumbers
+
+\section*{Dholki Song 1}
+
+\begin{multicols}{2}
+
+\begin{enumerate}[left=0pt,label=\arabic*.]
+\item \bigroman{Aakho shehr sheerazo}
+\item \bigroman{Dil chu wathwan hazazo}
+\item \bigroman{Sheene baane rath chune}
+\item \bigroman{Che gulabi chonuzo}
+\end{enumerate}
+
+\columnbreak
+
+\begin{enumerate}[left=0pt,label=\arabic*.]
+\item \bigarabic{آکھو شہر شیرازو}
+\item \bigarabic{دل چھ وٿوَن حضازو}
+\item \bigarabic{شیٖنے بانے رتھ چنے}
+\item \bigarabic{چھ گلابی چونوژو}
+\end{enumerate}
+
+\end{multicols}
+
+\vspace{1cm}
+
+\section*{Dholki Song 2}
+
+\begin{multicols}{2}
+
+\begin{enumerate}[left=0pt,label=\arabic*.]
+\item \bigroman{Yaar myon wuchhun nindras}
+\item \bigroman{Hish hish karan cha wanus}
+\item \bigroman{Tsolh gov rang wathwan}
+\item \bigroman{Baapos chu rang raznus}
+\end{enumerate}
+
+\columnbreak
+
+\begin{enumerate}[left=0pt,label=\arabic*.]
+\item \bigarabic{یار میون وچھن نندرَس}
+\item \bigarabic{ہش ہش کرن چھ وانس}
+\item \bigarabic{څولٖہ گو رنگ وٿون}
+\item \bigarabic{باپوس چھ رنگ رزنوس}
+\end{enumerate}
+
+\end{multicols}
+
+\end{document}
