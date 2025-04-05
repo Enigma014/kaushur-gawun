@@ -13,8 +13,8 @@ This repository contains songs I've collected over time from Bazaz and Koul fami
 To make edits in the document, I recommend simply making changes in the [TEX file](./music-sheet.tex) (it's easy to write, if you just use GPT to help you out.)
 
 ### Generating the PDF
-- First install the [Narqalam](./Narqalam.ttf) file. This is the font for the Kashmiri side of the lyrics.
-- Ensure you have LaTeX installed in your computer. Follow instructions [here](https://www.latex-project.org/get/).
+- First install the [Gulmarg Nastaleeq](./GulmargNastaleeq8112013.ttf) font file. This is the font for the Kashmiri side of the lyrics.
+- Ensure you have LaTeX installed in your computer. Follow instructions [here](https://www.latex-project.org/get/) if you need to.
 - To compile the TEX file, run the following in your terminal program:
 ```
 xelatex music-sheet.tex
